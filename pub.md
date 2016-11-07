@@ -24,7 +24,7 @@ This material is presented to ensure timely dissemination. Copyright and all rig
 
 ***
 
-<iframe src="http://vision.die.uchile.cl/~rverscha/pub2.php" seamless align="middle" height="2000" width="650" name="_pub"></iframe>
+<iframe src="http://vision.die.uchile.cl/~rverscha/pub2.php" align="middle" height="2000" width="650" name="_pub"></iframe>
 
 ***
 ###      Lists of publications in external websites
