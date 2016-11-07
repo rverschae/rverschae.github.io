@@ -54,7 +54,7 @@ His current research interest include: computer and robot vision, scene understa
 
 ## Resume
 
-* <a href ="cv" target=_new>Curriculum Vitae (plain txt)</a> , last update Jan. 2016.
+* [cv](Curriculum Vitae (plain txt))</a> , last update Jan. 2016.
 
 *** 
 
