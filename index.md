@@ -9,9 +9,13 @@ header: Rodrigo Verschae
 <a href="http://rodrigo.verschae.org"><img style="width: 10em;" src="http://rodrigo.verschae.org/img/rodrigo_verschae.jpg"></a>
 </div>
 Assistant Professor
+
 [Matsuyama Laboratory](http://vision.kuee.kyoto-u.ac.jp/index.html)
+
 [Department of Intelligence Science and Technology](http://www.ist.i.kyoto-u.ac.jp/)
+
 [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/index.html)
+
 [Kyoto University](http://www.kyoto-u.ac.jp/en), Kyoto, Japan  
 
 ## Contact 
