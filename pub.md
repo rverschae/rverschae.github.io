@@ -36,6 +36,6 @@ This material is presented to ensure timely dissemination. Copyright and all rig
 * <a href="http://arnetminer.org/person/rodrigo-verschae-177847.html" target="new">Arnetminer</a>
 * <a href="http://academic.research.microsoft.com/Author/3388478.aspx" target="new">Microsoft Academic Search</a>
 * <a href="http://www.researcherid.com/rid/K-4469-2012" target="new">ResearcherID</a>
-* <a href="http://orcid.org/0000-0002-1661-3309" target="new">ORCID profile</a></li>
+* <a href="http://orcid.org/0000-0002-1661-3309" target="new">ORCID profile</a>
 * <a href="http://www.scopus.com/authid/detail.url?authorId=8436903800" target="new">Scopus</a>
-* <a href="http://www.researchgate.net/profile/Rodrigo_Verschae/publications/"target="new">Research Gate</a>
+* <a href="http://www.researchgate.net/profile/Rodrigo_Verschae/publications/" target="new">Research Gate</a>
