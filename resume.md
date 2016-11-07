@@ -4,13 +4,6 @@ css: main_style.css
 header: Rodrigo Verschae
 ---
 
-<div id="navigation">
-<a class="navigation" href="index" title="Introduction and Contact Information">Home</a>
-<a class="navigation" href="research" title="Current and Past Projects and Grants">Research</a>
-<a class="navigation" href="pub" title="Publications">Publications</a>
-<a class="navigation" href="resume" title="Resume">Resume</a>
-</div>
-
 # Resume
 
 *** 
@@ -122,25 +115,3 @@ His current research interest include: computer and robot vision, scene understa
   * Member of the IEEE Robotics and Automation Society.
 
 ***
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-9779285-1', 'verschae.org');
-  ga('send', 'pageview');
-
-</script>
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript" language="javascript">
-        var sc_project=350311;
-        var sc_partition=1;
-                var sc_invisible=1;
-        </script>
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script>
-<noscript><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img  src="http://c2.statcounter.com/counter.php?sc_project=350311&amp;amp;java=0&amp;amp;invisible=1" alt="free hit counter code" border="0"></a> </noscript>
-
-<!-- End of StatCounter Code -->

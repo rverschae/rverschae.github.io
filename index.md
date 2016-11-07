@@ -10,7 +10,7 @@ header: Rodrigo Verschae
 </div>
 Assistant Professor
 [Matsuyama Laboratory](http://vision.kuee.kyoto-u.ac.jp/index.html)
-[Department of Intelligence Science and Technology] (http://www.ist.i.kyoto-u.ac.jp/)
+[Department of Intelligence Science and Technology](http://www.ist.i.kyoto-u.ac.jp/)
 [Graduate School of Informatics](http://www.i.kyoto-u.ac.jp/en/index.html)
 [Kyoto University](http://www.kyoto-u.ac.jp/en), Kyoto, Japan  
 
@@ -40,13 +40,13 @@ Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
 * [New paper, Nov. 2015]: co-authored paper on [An enhanced representation of thermal faces for improving local appearance-based face recognition](http://www.tandfonline.com/doi/full/10.1080/10798587.2015.1110288) is available at IASC (Intelligent Automation and Soft Computing, Taylor & Francis).
 * [New position, April 2015], I am a program-specific **Assistant Professor** at the Graduate School of Informatics, Kyoto University
 * Since 2015, I am an Associate Editor of the Journal Frontiers in Robotics and AI ([specialty section on Vision Systems Theory, Tools and Applications](http://journal.frontiersin.org/journal/all/section/vision-systems-theory-tools-and-applications)).
-* [SmartGridComm, 2014] on "A Distributed Hierarchical Architecture for Community-based Power Balancing" to be presented at the IEEE SmartGridComm'2014 conference. [PDF presentation] (presentations/smartgridcomm2014_Rodrigo_Verschae.pdf)
+* [SmartGridComm, 2014] on "A Distributed Hierarchical Architecture for Community-based Power Balancing" to be presented at the IEEE SmartGridComm'2014 conference. [PDF presentation](presentations/smartgridcomm2014_Rodrigo_Verschae.pdf)
 * [ECC, 2014] on a "Distributed coordination framework for on-line scheduling and power demand balancing of household communities" presented at the European control conference (ECC 2014), Strasbourg, France.
 * [New affiliation, 2013] I am with the [Matsuyama Lab](http://vision.kuee.kyoto-u.ac.jp/), working on distributed coordination and mode scheduling within the context of the [i-Energy](http://i-energy.jp/en_index.html) project. 
 * [New book chapter 2013] The book chapter I co-authored (titled "Thermal Face Recognition in Unconstrained Environments using histograms of LBP Features") is now available as part of the Springer book [Local Binary Patterns: New Variants and Applications](http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-39288-7) (also at [Amazon](http://www.amazon.com/Local-Binary-Patterns-Applications-Computational/dp/3642392881)).
 * I presented my work on "Multiclass Weak Classifiers in Boosted-Cascade Based Object Detection" at the [ ICML workshop on Learning with Test-Time Budgets ](https://sites.google.com/site/budgetedlearning2013/#schedule)
 * [ICML 2013] I attended the International Conference on Machine Learning ([ICML'13](http://icml.cc/2013/))
-* [Invited talk, 2013] ([info](http://www.scian.cl/portal/globals_file.php?CS=2988&ID=1368658662.7932)) at [SCIAN-lab](http://www.scian.cl/) ( Laboratory for Scientific Image Analysis) at Medical School of the University of Chile, Santiago, Chile 
+* [Invited talk, 2013]([info](http://www.scian.cl/portal/globals_file.php?CS=2988&ID=1368658662.7932)) at [SCIAN-lab](http://www.scian.cl/) ( Laboratory for Scientific Image Analysis) at Medical School of the University of Chile, Santiago, Chile 
 
 * * *
 
@@ -66,29 +66,4 @@ My current [research](research) interests include:
 + Coordinated energy management
 + Computer and robot vision, machine learning, pattern recognition
 + Object detection and recognition; scene understanding.
-
-* * *
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-9779285-1', 'verschae.org');
-  ga('send', 'pageview');
-
-</script>
-
-
-<!-- Start of StatCounter Code -->
-<script type="text/javascript" language="javascript">
-        var sc_project=350311;
-        var sc_partition=1;
-                var sc_invisible=1;
-        </script>
-<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script>
-<noscript><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img  src="http://c2.statcounter.com/counter.php?sc_project=350311&amp;amp;java=0&amp;amp;invisible=1" alt="free hit counter code" border="0"></a> </noscript>
-
-<!-- End of StatCounter Code -->  
 
