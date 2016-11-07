@@ -27,6 +27,7 @@ This material is presented to ensure timely dissemination. Copyright and all rig
 <iframe src="http://vision.die.uchile.cl/~rverscha/pub2.php" align="middle" height="2000" width="650" name="_pub"></iframe>
 
 ***
+
 ###      Lists of publications in external websites
 
 * <a href = "http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Verschae:Rodrigo.html" target="new"> DBLP Bibliography Server</a> 
