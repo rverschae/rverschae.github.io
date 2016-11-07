@@ -1,6 +1,6 @@
 ---
 title: Rodrigo Verschae
-css: main_style.css
+layout: default
 header: Rodrigo Verschae
 ---
 
@@ -54,7 +54,7 @@ His current research interest include: computer and robot vision, scene understa
 
 ## Resume
 
-* [cv](Curriculum Vitae (plain txt))</a> , last update Jan. 2016.
+* [cv](Curriculum Vitae (plain txt)), last update Nov. 2016.
 
 *** 
 
