@@ -1,8 +1,10 @@
----
-title: Rodrigo Verschae
-layout: default
-header: Rodrigo Verschae
----
+<div id="navigation">
+<a class="navigation" href="index.md" title="Introduction and Contact Information">Home</a>
+<a class="navigation" href="research.md" title="Current and Past Projects and Grants">Research</a>
+<a class="navigation" href="pub.md" title="Publications">Publications</a>
+<a class="navigation" href="resume.md" title="Resume">Resume</a>
+<a class="navigation" href="networks.md" title="Networks">Networks</a>
+</div>
 
 # Publications
 
@@ -24,10 +26,9 @@ This material is presented to ensure timely dissemination. Copyright and all rig
 
 ***
 
-<iframe src="http://vision.die.uchile.cl/~rverscha/pub2.php" align="middle" height="2000" width="650" name="_pub"></iframe>
+<iframe src="http://vision.die.uchile.cl/~rverscha/pub2.php" seamless align="middle" height="2000" width="650" name="_pub"></iframe>
 
 ***
-
 ###      Lists of publications in external websites
 
 * <a href = "http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/v/Verschae:Rodrigo.html" target="new"> DBLP Bibliography Server</a> 
@@ -37,6 +38,29 @@ This material is presented to ensure timely dissemination. Copyright and all rig
 * <a href="http://arnetminer.org/person/rodrigo-verschae-177847.html" target="new">Arnetminer</a>
 * <a href="http://academic.research.microsoft.com/Author/3388478.aspx" target="new">Microsoft Academic Search</a>
 * <a href="http://www.researcherid.com/rid/K-4469-2012" target="new">ResearcherID</a>
-* <a href="http://orcid.org/0000-0002-1661-3309" target="new">ORCID profile</a>
+* <a href="http://orcid.org/0000-0002-1661-3309" target="new">ORCID profile</a></li>
 * <a href="http://www.scopus.com/authid/detail.url?authorId=8436903800" target="new">Scopus</a>
-* <a href="http://www.researchgate.net/profile/Rodrigo_Verschae/publications/" target="new">Research Gate</a>
+* <a href="http://www.researchgate.net/profile/Rodrigo_Verschae/publications/"target="new">Research Gate</a>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9779285-1', 'verschae.org');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Start of StatCounter Code -->
+
+<script type="text/javascript" language="javascript">
+        var sc_project=350311;
+        var sc_partition=1;
+                var sc_invisible=1;
+        </script>
+        
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/frames.js"></script><noscript><a href="http://www.statcounter.com/free_hit_counter.html" target="_blank"><img  src="http://c2.statcounter.com/counter.php?sc_project=350311&amp;amp;java=0&amp;amp;invisible=1" alt="free hit counter code" border="0"></a> </noscript>
+
+<!-- End of StatCounter Code -->
