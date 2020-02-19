@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Rodrigo Verschae's Webpage
 ---
 
 <div id="navigation">
