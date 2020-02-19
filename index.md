@@ -1,7 +1,3 @@
----
-layout: post
-title: Rodrigo Verschae's Webpage
----
 
 <div id="navigation">
 <a class="navigation" href="index.md" title="Introduction and Contact Information">Home</a>
