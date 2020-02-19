@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Rodrigo Verschae's Webpage
 ---
 
