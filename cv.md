@@ -1,11 +1,10 @@
 ---
 # this is an empty front matter
 ---
-<p>TEST</p>
 
 <div id="navigation">
-<a class="navigation" href="index.md" title="Introduction and Contact Information">Home</a>
-<a class="navigation" href="cv.md" title="Resume">Resume</a>
+<a class="navigation" href="index" title="Introduction and Contact Information">Home</a>
+<a class="navigation" href="cv" title="Resume">Resume</a>
 </div>
 
 
