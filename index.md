@@ -1,6 +1,3 @@
----
-# this is an empty front matter
----
 
 <div id="navigation">
 <a class="navigation" href="index.md" title="Introduction and Contact Information">Home</a>
