@@ -1,5 +1,3 @@
 name: Rodrigo Verschae 
-markdown: kramdown
-remove: 'html'
 source: rverschae.github.io
 theme: jekyll-theme-minimal
