@@ -3,8 +3,8 @@
 ---
 
 <div id="navigation">
-<a class="navigation" href="index.md" title="Introduction and Contact Information">Home</a>
-<a class="navigation" href="cv.md" title="CV">CV</a>
+<a class="navigation" href="index" title="Introduction and Contact Information">Home</a>
+<a class="navigation" href="cv" title="CV">CV</a>
 </div>
 
 # Rodrigo Verschae
