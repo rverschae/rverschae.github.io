@@ -2,11 +2,6 @@
 # this is an empty front matter
 ---
 
-<div id="navigation">
-<a class="navigation" href="index" title="Introduction and Contact Information">Home</a>
-<a class="navigation" href="cv" title="CV">CV</a>
-</div>
-
 # Rodrigo Verschae
 <div style='float: right'>
 <a href="http://rodrigo.verschae.org"><img style="width: 8em;" src="http://rodrigo.verschae.org/img/rodrigo_verschae.jpg"></a>
