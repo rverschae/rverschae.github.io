@@ -2,12 +2,6 @@
 # this is an empty front matter
 ---
 
-<div id="navigation">
-<a class="navigation" href="index" title="Introduction and Contact Information">Home</a>
-<a class="navigation" href="cv" title="Resume">Resume</a>
-</div>
-
-
 # Rodrigo Verschae, Dr.
 
 ***
