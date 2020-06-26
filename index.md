@@ -8,7 +8,7 @@
 </div>
 
 + **Associate Professor**, [Institute of Engineering Sciences](https://www.uoh.cl/#instituto-de-ciencias-de-la-ingenieria), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
-+ Director, PAR Explora O'Higgins (Science Ministry), Chile
++ Director, PAR Explora O'Higgins (Program of the Ministry of Science & Technology), Chile
 + Associated Researcher, [Center for Mathematical Modeling (CMM)](http://www.cmm.uchile.cl/), U. de Chile, Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
