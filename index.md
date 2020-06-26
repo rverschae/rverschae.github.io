@@ -31,6 +31,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 * * *
 
 ## 2020
+- [[CEINE](http://www.ceine.cl/en/)] Since March 2020 I am an associate researcher of the Business Intelligence Center (CEINE), Universidad de Chile, Chile.
 - [IMPRESS], International Coordinator of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
 
 ## 2019
