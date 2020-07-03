@@ -26,7 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 * * *
 **I am organizing the [First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019), sponsored by The Japan Foundation.**
-**Come join us! in Rancagua, Chile, March 2020. More information Soon!**
+**Come join us! in Rancagua, Chile -- Postponed due to Covid19 (probable date: Nov 2020)**
 * * *
 * * *
 
