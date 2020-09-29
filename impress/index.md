@@ -1,4 +1,5 @@
-*__STIC-AmSud Program__:Image Modeling and Processing for REmote SenSing in agriculture (__IMPRESS__ 2020 - 2021)*
+*__STIC-AmSud Program__*
+*Image Modeling and Processing for REmote SenSing in agriculture (__IMPRESS__ 2020 - 2021)*
 
 **Institutions**
   + Universidad de O’Higgins, Chile
@@ -17,7 +18,7 @@
   + Carlo de Franchis, Postdoc ENS Paris-Saclay (Junior)
   + Sebastien Drouyer,  Postdoc ENS Paris-Saclay (Junior) 
   + Pablo MUSE, Universidad de la República, Uruguay (Senior)
-  + Adrián Cal, Universidad de la República, Uruguay (Junior)
+  + Adrián CAL, Universidad de la República, Uruguay (Junior)
   + Pablo GUTIERREZ, Universidad de O’Higgins, Chile (Senior)
   + Daniel CASAGRANDE, Universidad de O’Higgins, Chile (Senior)
   + David SOSSA, Universidad de O’Higgins, Chile (Senior)
@@ -34,7 +35,8 @@
   + To forster applied research on Smart Agriculture and Remote Sensing solutions with potential impact in France and South America
 
 **Activities**
-  + Coordination meeting 1
-  + Seminar 1
-  + Coordination meeting 2
-  + Seminar 2
+  + Coordination meeting 1 (March 2020)
+  + Coordination meeting 2 (12th, April 2020)
+  + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
+  + Coordination meeting 3 (September 2020)
+  + Web Seminar 2 (09th, October 2020)
