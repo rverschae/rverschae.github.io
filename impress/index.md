@@ -1,6 +1,9 @@
 *__STIC-AmSud Program__*
+
 *Image Modeling and Processing for REmote SenSing in agriculture (__IMPRESS__ 2020 - 2021)*
 
+Project number: STIC190027
+ 
 **Institutions**
   + Universidad de O’Higgins, Chile
   + Universidad de la Republica, Uruguay
