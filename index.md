@@ -25,11 +25,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 # News
 
-* * *
-**I am organizing the [First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019), sponsored by The Japan Foundation.**
-**Come join us! in Rancagua, Chile -- Postponed due to Covid19 (probable date: Nov 2020)**
-* * *
-* * *
+## 2021
+- [[First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019)], Event sponsored by The Japan Foundation. Chile -- March 2022
 
 ## 2020
 - [[FG 2020](https://fg2020.org/introduction-to-face-and-gesture-recognition-using-event-based-cameras/)] TUTORIAL: Introduction to face and gesture recognition using event-based cameras given at the 15th IEEE International Conference on Automatic Face and Gesture Recognition
