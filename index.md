@@ -31,6 +31,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 ## 2020
 - [[FG 2020](https://fg2020.org/introduction-to-face-and-gesture-recognition-using-event-based-cameras/)] TUTORIAL: Introduction to face and gesture recognition using event-based cameras given at the 15th IEEE International Conference on Automatic Face and Gesture Recognition
+- [ICI UOH] Since September 2020 I am an Director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile.
 - [[IEEE RAS Education Committee](https://www.ieee-ras.org/about-ras/governance/member-activities-board/education-committee)] Since July 2020 I am a Co-Chair 
  of the IEEE RAS Education Committee.
 - [[CEINE](http://www.ceine.cl/en/)] Since March 2020 I am an associate researcher of the Business Intelligence Center (CEINE), Universidad de Chile, Chile.
