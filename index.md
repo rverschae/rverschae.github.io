@@ -26,7 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2021
-- [[International Symposium on Intelligent Computing Systems - ISICS ](https://www.isics-symposium.org/2022/organizing-committees)], I am part ot theScientific Advisory Committee of the International Symposium on Intelligent Computing Systems - ISICS, Chile -- March 2022
+- [[ISICS 2022](https://www.isics-symposium.org/2022/organizing-committees)], I am part ot the Scientific Advisory Committee of the International Symposium on Intelligent Computing Systems - ISICS, Chile -- March 2022
 - [[First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019)], Event sponsored by The Japan Foundation. Chile -- March 2021
 
 ## 2020
