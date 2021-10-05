@@ -26,6 +26,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2021
+- International Workshop on Innovative Robotics, Invited Speaker. Event organized by The University of Salento in collaboration with the Kyushu Institute of Technology, Oct 2021
+- Webinar on Innovation and Technology applied to Fruit Growing and Horticulture, Invited Speaker. Event organized by Chilean Embassy of Chile in Japan, Sept 2021
 - [[ISICS 2022](https://www.isics-symposium.org/2022/organizing-committees)], I am part ot the Scientific Advisory Committee of the International Symposium on Intelligent Computing Systems - ISICS, Chile -- March 2022
 - [[First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019)], Event sponsored by The Japan Foundation. Chile -- March 2021
 
