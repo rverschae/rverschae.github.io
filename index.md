@@ -9,8 +9,7 @@
 
 + **Director**, [Institute of Engineering Sciences](https://www.uoh.cl/#instituto-de-ciencias-de-la-ingenieria), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, PAR Explora O'Higgins (Program of the Ministry of Science & Technology), Chile
-+ Associate Professor,  [Universidad de O'Higgins](http://www.uoh.cl), Chile 
-+ Associated Researcher, [Center for Mathematical Modeling (CMM)](http://www.cmm.uchile.cl/), U. de Chile, Chile 
++ Associate Professor, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
 
@@ -24,6 +23,9 @@
 See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information.
 
 # News
+
+## 2022
+- Sponsor of postdoctoral Fondecyt researcher Christopher Flores, working on active learning.
 
 ## 2021
 - [International Workshop on Innovative Robotics], Invited Speaker. Event organized by The University of Salento in collaboration with the Kyushu Institute of Technology, October 2021
