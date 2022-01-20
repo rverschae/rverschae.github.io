@@ -25,7 +25,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2022
-- Sponsor of postdoctoral Fondecyt researcher Christopher Flores, working on active learning.
+- [[Postdoctoral Fondecyt Avisor](https://www.anid.cl/concursos/concurso/?id=683)] I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who working on active learning.
 
 ## 2021
 - [International Workshop on Innovative Robotics], Invited Speaker. Event organized by The University of Salento in collaboration with the Kyushu Institute of Technology, October 2021
