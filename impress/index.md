@@ -37,9 +37,28 @@ Project number: STIC190027
   + To promote and foster reproducible Science in the fields of Image processing Computer Vision
   + To forster applied research on Smart Agriculture and Remote Sensing solutions with potential impact in France and South America
 
-**Activities**
+**Planned Activities**
   + Coordination meeting 1 (March 2020)
   + Coordination meeting 2 (12th, April 2020)
   + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
   + Coordination meeting 3 (September 2020)
   + Web Seminar 2 (09th, October 2020)
+
+
+**Activities (modified plan due to COVID19)**
+  + Regular weekly online meeting (every friday 13:00 CET, May 2020 - March 2022)
+  + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
+  + Web Seminar 2 (14th, Junio 2021): 
+  + Organization (Universidad de O'Higgings) of the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Presentation of Javier Preciozzi at the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Presentation of Rodrigo Verschae at the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Co-advising of Master student ??? by Javier Preciozzi and Gabriele Facciolo
+  + Visit of Javier Preciozzi at ENS Paris-Saclay (September 2021)
+  + Visit of Rodrigo Verschae at ENS Paris-Saclay (December 2021)
+  + Visit of Rodrigo Verschae at ENS Paris-Saclay (January-February 2022)
+  + Invited presentation by Rodrigo Verschae (Event Based Cameras) at Seminario GTTI - Centre Borelli, ENS Paris-Saclay
+  + Visit of Gabriele Facciolo at Universidad de la Republica (Feb 2022)
+  + Invited presentation by Gabriele Facciolo at Universidad de la Republica
+  + Co-advising of Doctor student ??? by Rodrigo Verschae and Gabriele Facciolo
+  + Closing Web Seminar 3 (April 2022)
+
