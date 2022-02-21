@@ -25,9 +25,11 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2022
-- [[Postdoctoral Fondecyt Avisor](https://www.anid.cl/concursos/concurso/?id=683)] I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who working on active learning.
+- [IMPRESS, Feb 2022], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
+- [[Postdoctoral Fondecyt Avisor](https://www.anid.cl/concursos/concurso/?id=683)] I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who is working on active learning.
 
 ## 2021
+- [IMPRESS, December 2021], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
 - [International Workshop on Innovative Robotics], Invited Speaker. Event organized by The University of Salento in collaboration with the Kyushu Institute of Technology, October 2021
 - [Webinar on Innovation and Technology applied to Fruit Growing and Horticulture], Invited Speaker. Event organized by Embassy of Chile in Japan, September 2021
 - [[ISICS 2022](https://www.isics-symposium.org/2022/organizing-committees)], I am part ot the Scientific Advisory Committee of the International Symposium on Intelligent Computing Systems - ISICS, Chile -- March 2022
