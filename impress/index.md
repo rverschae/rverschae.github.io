@@ -40,10 +40,9 @@ Project number: STIC190027
 **Planned Activities**
   + Coordination meeting 1 (March 2020)
   + Coordination meeting 2 (12th, April 2020)
-  + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
+  + Web Seminar 1 (24th, July 2020)
   + Coordination meeting 3 (September 2020)
   + Web Seminar 2 (09th, October 2020)
-
 
 **Activities (modified plan due to COVID19)**
   + Regular weekly online meeting (every friday 13:00 CET, May 2020 - March 2022)
