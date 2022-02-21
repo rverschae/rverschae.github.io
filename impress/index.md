@@ -57,6 +57,7 @@ Project number: STIC190027
       + Multiscale a Contrario Change Detection on Satellite Image time-series, _Thibau Ehret (ENS Paris-Saclay)_. 
       + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series, _Charles Hessel (ENS Paris-Saclay)_. 
   + Co-advising of ??? by _Gabriele Facciolo AND Javier Preciozzi_
+  + Co-advising of one student project for the lecture on Satellite Imagenes ENS Paris-Saclay (Sept - Oct 2021), _Gabriele Facciolo and Javier Preciozzi_
   + Visit of _Javier Preciozzi_ at ENS Paris-Saclay (1-7 November 2021)
   + Visit of _Rodrigo Verschae_ at ENS Paris-Saclay (8-25 December 2021)
   + Visit of _Rodrigo Verschae_ at ENS Paris-Saclay (17 January - 21 February 2022)
@@ -64,5 +65,6 @@ Project number: STIC190027
   + Visit of _Gabriele Facciolo_ at Universidad de la Republica (17 February - 3 March 2022)
   + Invited presentation by _Gabriele Facciolo_ at Universidad de la Republica (??? February 2022)
   + Co-advising of ??? by _Gabriele Facciolo and Rodrigo Verschae_
+  + Co-advising of two students' projects for the lecture on Satellite Imagenes ENS Paris-Saclay (February - March 2022). _Gabriele Facciolo and Rodrigo Verschae_
   + Closing Web Seminar 4 (April 2022)
 
