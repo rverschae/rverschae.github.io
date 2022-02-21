@@ -47,22 +47,22 @@ Project number: STIC190027
 **Activities (modified plan due to COVID19)**
   + Regular weekly online meeting (every friday 13:00 CET, May 2020 - March 2022)
   + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
-      + Automatic mapping and monitoring agricultura crops in Uruguay, _Adrian Cal, INIA Uruguay_.
+      + Automatic mapping and monitoring agricultura crops in Uruguay, _Adrian Cal (INIA Uruguay)_.
   + Web Seminar 2 (11th, December 2020): [VIDEO](https://drive.google.com/file/d/1WyVtNY7qXa9JvL5avKO8U1OWiMEeMWqQ/view?usp=sharing)
       + Automatic Tree Counting with LIDAR, _Guillermo Garella (Universidad de la Republica)_.
-  + Organization (Rodrigo Verschae, Universidad de O'Higgins )of the [First Japan-Chile Symposium in Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019) (March 2021): 
+  + Organization (Rodrigo Verschae, Universidad de O'Higgins) of the [First Japan-Chile Symposium in Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019) (March 2021): 
       + Presentation on Two Applications of Remote Sensing for Agriculture and Farming _Javier Preciozzi (Universidad de la Republica)_
       + Presentation on Intelligent and Robotics Systems Laboratory, _Rodrigo Verschae (Universidad de O'Higgins)_
   + Web Seminar 3 (14th, June 2021): [VIDEO](https://drive.google.com/file/d/1rktqWu3r7EkXF5-uyGVSGGRiuGvs_aen/view?usp=sharing)
       + Multiscale a Contrario Change Detection on Satellite Image time-series, _Thibau Ehret (ENS Paris-Saclay)_. 
-      + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series, _Charles Hessel, (ENS Paris-Saclay)_. 
+      + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series, _Charles Hessel (ENS Paris-Saclay)_. 
   + Co-advising of ??? by _Gabriele Facciolo AND Javier Preciozzi_
   + Visit of _Javier Preciozzi_ at ENS Paris-Saclay (1-7 November 2021)
   + Visit of _Rodrigo Verschae_ at ENS Paris-Saclay (8-25 December 2021)
   + Visit of _Rodrigo Verschae_ at ENS Paris-Saclay (17 January - 21 February 2022)
   + Invited presentation by _Rodrigo Verschae_ (Event Based Cameras) at Seminario GTTI - Centre Borelli, ENS Paris-Saclay (16th February 2022)
   + Visit of _Gabriele Facciolo_ at Universidad de la Republica (17 February - 3 March 2022)
-  + Invited presentation by _Gabriele Facciolo_ at Universidad de la Republica (February 2022)
+  + Invited presentation by _Gabriele Facciolo_ at Universidad de la Republica (??? February 2022)
   + Co-advising of ??? by _Gabriele Facciolo and Rodrigo Verschae_
   + Closing Web Seminar 4 (April 2022)
 
