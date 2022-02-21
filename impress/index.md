@@ -50,8 +50,9 @@ Project number: STIC190027
       + Automatic mapping and monitoring agricultura crops in Uruguay, _Adrian Cal, INIA Uruguay_.
   + Web Seminar 2 (11th, December 2020): [VIDEO](https://drive.google.com/file/d/1WyVtNY7qXa9JvL5avKO8U1OWiMEeMWqQ/view?usp=sharing)
       + Automatic Tree Counting with LIDAR, _Guillermo Garella (Universidad de la Republica)_.
-  + Presentation of _Javier Preciozzi_ at the First Japan-Chile Symposium in Field Robotics (March 2021)
-  + Presentation of _Rodrigo Verschae_ at the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Organization (Rodrigo Verschae, Universidad de O'Higgins )of the [First Japan-Chile Symposium in Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019) (March 2021): 
+      + Presentation on Two Applications of Remote Sensing for Agriculture and Farming _(Javier Preciozzi, Universidad de la Republica)_
+      + Presentation on Intelligent and Robotics Systems Laboratory, _(Rodrigo Verschae, Universidad de O'Higgins)_
   + Web Seminar 3 (14th, June 2021): [VIDEO](https://drive.google.com/file/d/1rktqWu3r7EkXF5-uyGVSGGRiuGvs_aen/view?usp=sharing)
       + Multiscale a Contrario Change Detection on Satellite Image time-series, _Thibau Ehret (ENS Paris-Saclay)_. 
       + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series, _Charles Hessel, (ENS Paris-Saclay)_. 
