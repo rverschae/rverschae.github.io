@@ -47,10 +47,13 @@ Project number: STIC190027
 **Activities (modified plan due to COVID19)**
   + Regular weekly online meeting (every friday 13:00 CET, May 2020 - March 2022)
   + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
-  + Web Seminar 2 (14th, Junio 2021): 
-  + Organization (Universidad de O'Higgings) of the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Web Seminar 2 (11th, December 2020): Automatic Tree Counting with LIDAR, Guillermo Garella (Universidad de la Republica). 
   + Presentation of Javier Preciozzi at the First Japan-Chile Symposium in Field Robotics (March 2021)
   + Presentation of Rodrigo Verschae at the First Japan-Chile Symposium in Field Robotics (March 2021)
+  + Web Seminar 3 (14th, June 2021):
+      + Multiscale a Contrario Change Detection on Satellite Image time-series (Thibau Ehret, ENS Paris-Saclay). 
+      + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series (Charles Hessel, ENS Paris-Saclay). 
+  + Organization (Universidad de O'Higgings) of the First Japan-Chile Symposium in Field Robotics (March 2021)
   + Co-advising of Master student ??? by Javier Preciozzi and Gabriele Facciolo
   + Visit of Javier Preciozzi at ENS Paris-Saclay (September 2021)
   + Visit of Rodrigo Verschae at ENS Paris-Saclay (December 2021)
@@ -59,5 +62,5 @@ Project number: STIC190027
   + Visit of Gabriele Facciolo at Universidad de la Republica (Feb 2022)
   + Invited presentation by Gabriele Facciolo at Universidad de la Republica
   + Co-advising of Doctor student ??? by Rodrigo Verschae and Gabriele Facciolo
-  + Closing Web Seminar 3 (April 2022)
+  + Closing Web Seminar 4 (April 2022)
 
