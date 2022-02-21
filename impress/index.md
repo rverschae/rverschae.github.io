@@ -48,10 +48,11 @@ Project number: STIC190027
   + Regular weekly online meeting (every friday 13:00 CET, May 2020 - March 2022)
   + Web Seminar 1 (24th, July 2020): [MP4](http://boucantrin.ovh.hw.ipol.im/static/facciolo/estic2020/2020-05-15%20-%20Automatic%20mapping%20and%20monitoring%20agricultural%20crops%20in%20uruguay.mp4)
       + Automatic mapping and monitoring agricultura crops in Uruguay, _Adrian Cal, INIA Uruguay_.
-  + Web Seminar 2 (11th, December 2020): Automatic Tree Counting with LIDAR, _Guillermo Garella (Universidad de la Republica)_.
+  + Web Seminar 2 (11th, December 2020): [VIDEO](https://drive.google.com/file/d/1WyVtNY7qXa9JvL5avKO8U1OWiMEeMWqQ/view?usp=sharing)
+      + Automatic Tree Counting with LIDAR, _Guillermo Garella (Universidad de la Republica)_.
   + Presentation of _Javier Preciozzi_ at the First Japan-Chile Symposium in Field Robotics (March 2021)
   + Presentation of _Rodrigo Verschae_ at the First Japan-Chile Symposium in Field Robotics (March 2021)
-  + Web Seminar 3 (14th, June 2021):
+  + Web Seminar 3 (14th, June 2021): [VIDEO](https://drive.google.com/file/d/1rktqWu3r7EkXF5-uyGVSGGRiuGvs_aen/view?usp=sharing)
       + Multiscale a Contrario Change Detection on Satellite Image time-series, _Thibau Ehret (ENS Paris-Saclay)_. 
       + Relative radiometric normalizacion using several automatically chosen reference images for multi-sensor, multi-temporal series, _Charles Hessel, (ENS Paris-Saclay)_. 
   + Organization (Universidad de O'Higgings) of the First Japan-Chile Symposium in Field Robotics (March 2021)
