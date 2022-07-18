@@ -12,7 +12,6 @@
 + Associate Professor, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
-
 ## Contact 
 
 + Email: rodrigo [at] verschae [dot] org  
@@ -27,7 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 ## 2022
 - [EMBC'22], New paper on "A Generic Semi-Supervised and Active Learning Framework for Biomedical Text Classification" accepted at the International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22). Join work with Christopher Flores.
 - [IMPRESS, Feb 2022], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
-- [[Postdoctoral Fondecyt Avisor](https://www.anid.cl/concursos/concurso/?id=683)] Since Abril 2022 I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who is working on active learning.
+- [[Postdoctoral Fondecyt Advisor](https://www.anid.cl/concursos/concurso/?id=683)] Since Abril 2022 I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who is working on active and semi-supervised learning.
 
 ## 2021
 - [IMPRESS, December 2021], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
