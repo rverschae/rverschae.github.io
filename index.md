@@ -7,7 +7,7 @@
 <a href="http://rodrigo.verschae.org"><img style="width: 8em;" src="http://rodrigo.verschae.org/img/verschae_rodrigo.jpg"></a>
 </div>
 
-+ **Director**, [Institute of Engineering Sciences](https://www.uoh.cl/#instituto-de-ciencias-de-la-ingenieria), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
++ **Director**, [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, PAR Explora O'Higgins (Program of the Ministry of Science & Technology), Chile
 + Associate Professor, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
