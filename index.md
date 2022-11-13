@@ -8,7 +8,7 @@
 </div>
 
 + **Director**, [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
-+ Director, PAR Explora O'Higgins (Program of the Ministry of Science & Technology), Chile
++ Director, [[PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), --Program of the Ministry of Science & Technology--, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Associate Professor, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Principal Researhcer, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
