@@ -26,7 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2022
-- [[New paper](https://www.sciencedirect.com/science/article/pii/S277237552200034X)], "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots", G Gil, D Casagrande, LP Cortés, R Verschae, Smart Agricultural Technology 3, 100069
+- [[New paper](https://www.sciencedirect.com/science/article/pii/S277237552200034X)], "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots", G Gil, D Casagrande, LP Cortés, R Verschae, _Smart Agricultural Technology 3_, 100069
 - [[EMBC'22](https://embc.embs.org/2022/)], New paper on "A Generic Semi-Supervised and Active Learning Framework for Biomedical Text Classification" [presented](https://embs.papercept.net/conferences/conferences/EMBC22/program/EMBC22_ContentListWeb_4.html#thep-25_09) at the International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22). Join work with Christopher Flores.
 - [IMPRESS, Feb 2022], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
 - [[Postdoctoral Fondecyt Advisor](https://www.anid.cl/concursos/concurso/?id=683)] Since Abril 2022 I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who is working on active and semi-supervised learning.
