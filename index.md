@@ -7,7 +7,6 @@
 <a href="http://rodrigo.verschae.org"><img style="width: 8em;" src="http://rodrigo.verschae.org/img/verschae_rodrigo.jpg"></a>
 </div>
 
-+ **Director**, [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Associate Professor, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
@@ -26,6 +25,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2023
+- 2020 - 2023, Director [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
+- [[New Paper]](https://ieeexplore.ieee.org/document/10111319/) "An Automated Assessment of Early Math Abilities Based on Digital Games" at the 2023 11th International Conference on Information and Education Technology (ICIET 2023) Fujisawa, Japan
 - Invited Speaker at the Biobio IA Robotics Summit, January 2023, Concepcion, Chile.
 - [[New paper](https://www.sciencedirect.com/science/article/pii/S277237552200034X)], "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots", G Gil, D Casagrande, LP Cortés, R Verschae, _Smart Agricultural Technology 3_, 100069
 
