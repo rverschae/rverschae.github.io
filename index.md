@@ -28,7 +28,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 - [[New Book Chapter]](https://link.springer.com/referenceworkentry/10.1007/978-3-030-89123-7_234-1) "Smart Technologies in Agriculture". In: Zhang, Q. (eds) Encyclopedia of Smart Agriculture Technologies. Springer Cham.
 - 2020 - 2023, Director [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 - [[New Paper]](https://ieeexplore.ieee.org/document/10111319/) "An Automated Assessment of Early Math Abilities Based on Digital Games" at the 2023 11th International Conference on Information and Education Technology (ICIET 2023) Fujisawa, Japan
-- Invited Speaker at the Biobio IA Robotics Summit, January 2023, Concepcion, Chile.
+- [Invited Speaker at the Biobio IA Robotics Summit](https://sites.google.com/view/biobo-airobotics-summit/), January 2023, Concepcion, Chile.
 - [[New paper](https://www.sciencedirect.com/science/article/pii/S277237552200034X)], "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots", G Gil, D Casagrande, LP Cortés, R Verschae, _Smart Agricultural Technology 3_, 100069
 
 ## 2022
