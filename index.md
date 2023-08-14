@@ -26,7 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 ## 2023
 - Director (2023-2024) of [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
-- Director (2023-2024) of [Science Festival O'Higgins](https://www.cienciapublica.cl/feci-festival-de-la-ciencia/), Science Festival; Outreach program of the Ministry of Science & Technology, Chile
+- Director (2023) of [Science Festival O'Higgins](https://www.cienciapublica.cl/feci-festival-de-la-ciencia/), Science Festival; Outreach program of the Ministry of Science & Technology, Chile
 - [[New Book Chapter]](https://link.springer.com/referenceworkentry/10.1007/978-3-030-89123-7_234-1) "Smart Technologies in Agriculture". In: Zhang, Q. (eds) Encyclopedia of Smart Agriculture Technologies. Springer Cham.
 - 2020 - 2023, Director [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 - [[New Paper]](https://ieeexplore.ieee.org/document/10111319/) "An Automated Assessment of Early Math Abilities Based on Digital Games" at the 2023 11th International Conference on Information and Education Technology (ICIET 2023) Fujisawa, Japan
