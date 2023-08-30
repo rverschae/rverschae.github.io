@@ -10,6 +10,7 @@
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(s), [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
 + Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
