@@ -10,7 +10,6 @@
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(s), [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
 + Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
@@ -26,6 +25,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2023
+- Alternate Director, [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
 - Director (2023-2024) of [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 - Director (2023) of [Science Festival O'Higgins](https://www.cienciapublica.cl/feci-festival-de-la-ciencia/), Science Festival; Outreach program of the Ministry of Science & Technology, Chile
 - [[New Book Chapter]](https://link.springer.com/referenceworkentry/10.1007/978-3-030-89123-7_234-1) "Smart Technologies in Agriculture". In: Zhang, Q. (eds) Encyclopedia of Smart Agriculture Technologies. Springer Cham.
