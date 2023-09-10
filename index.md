@@ -25,6 +25,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2023
+- [New Paper] on "Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification" with C Flores, accepted at [IDEAL](https://ideal2023.uevora.pt/general/), Portugal 2023
 - Alternate Director, [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
 - Director (2023-2024) of [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 - Director (2023) of [Science Festival O'Higgins](https://www.cienciapublica.cl/feci-festival-de-la-ciencia/), Science Festival; Outreach program of the Ministry of Science & Technology, Chile
