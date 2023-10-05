@@ -11,6 +11,7 @@
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Associated Researcher, [Centro UOH de Bio Ingenieria(CUBI)], U. de O'Higgins, Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
 ## Contact 
@@ -25,6 +26,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2023
+- [October 2023] We are looking for a Postdoc / Research Engineer to work on Machine Learning applied to bio-engineering problems, particularly cancer-related. [More details here](https://drive.google.com/file/d/1vb8ZOSv45Jtagg__yAqISPzX3mxFWvkX/view)
 - [ICCV23 - LAXAI] Ignacio Bugueno will be presenting our work on "Event-based Facial Expression Recognition and Learning Framework", at [ICCV23 - LAXAI workshop]((https://www.latinxinai.org/iccv-2023)), Paris 2023.
 - [New Paper] on "Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification" with Christopher Flores, accepted at [IDEAL](https://ideal2023.uevora.pt/general/), Portugal 2023
 - Alternate Director, [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
