@@ -10,8 +10,6 @@
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(alternate), [Proyecto Investigación Tecnológica 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”], [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(alternate), [Proyecto FIC "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Associated Researcher, [Centro UOH de Bio Ingenieria(CUBI)], U. de O'Higgins, Chile 
 + Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
@@ -24,6 +22,10 @@
 # Publications 
 
 See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information.
+
+# Main Projects 
++ Director(alternate), [Proyecto Investigación Tecnológica 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”], [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), [Proyecto FIC "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
 # News
 
