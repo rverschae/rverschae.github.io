@@ -23,9 +23,28 @@
 
 See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information.
 
-# Main Projects 
-+ Director(alternate), [Proyecto Investigación Tecnológica 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”], [Universidad de O'Higgins](http://www.uoh.cl), Chile
+# Main Research Projects 
++ Director(alternate), [Technological Research 2023 - IT23I0012] “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director(alternate), [Proyecto FIC "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
+
+# Main Outreach Projects 
++ Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), [Science Festival (FECI) O'Higgins](https://festivaldelasciencias.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
+
+# Main Research Lines
+## Smart Agriculture
+- Fruit Detection, tracking, Counting & Monitoring
+- Field Robotics
+- Sensor Networks
+  
+## Event-Based Vision
+- Gesture and Expression Recognition
+- Motion Analisis
+- Robot Vision
+
+## Computer Vision & Pattern Recognition Applications
+- AI for education
+- AI for bioinformatics
 
 # News
 
