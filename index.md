@@ -33,9 +33,9 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 # Main Research Lines
 ## Smart Agriculture
-- Fruit Detection, tracking, Counting & Monitoring
+- Fruit Detection, Tracking, Counting & Monitoring
+- Wireless Sensor Networks, Telemetry & Modelling
 - Field Robotics
-- Sensor Networks
   
 ## Event-Based Vision
 - Gesture and Expression Recognition
