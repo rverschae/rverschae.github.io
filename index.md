@@ -140,15 +140,15 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 # About
 
-I am an associate professor and director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile, and before that (2015-2018) I was a assistant professor at the Graduate School of Informatics, Kyoto University. Japan. 
+I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile, and before that (2015-2018) I was an assistant professor at the Graduate School of Informatics, Kyoto University. Japan. 
 
-My research interest include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
+My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
   
 I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 2010), a M.Sc. in Applied Mathematics (Ecole Normale Superieure (ENS) de Cachan, France, 2006), an Electrical Engineering degree (Universidad de Chile, 2003), and a Bachelor in Computer Engineering degree (Universidad de Chile, 2002).   
 
-I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
+From 2020 to 2023, I was the Institute of Engineering Sciences director, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
 
-I have participated in international projects, developed algorithms for large scale industrial systems, and at age 40 (2019), I am an active researcher with over 55 publications in international conferences and journals. 
+I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 44 (2023), I am an active researcher with over 60 publications in international conferences and journals. Currently, I am an associate editor for  Frontiers in Robotics and AI (Specialty section on Robot Vision and Artificial Perception) and SCI MDPI Journal.
 
 My current research interests include: 
 ----
