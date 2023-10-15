@@ -43,8 +43,9 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 - Robot Vision
 
 ## Computer Vision & Pattern Recognition Applications
-- AI for education
-- AI for bioinformatics
+- Machine Learning for education
+- Machine Learning for bioinformatics
+- Machine Learning for health
 
 # News
 
