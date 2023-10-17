@@ -16,6 +16,8 @@
 This webpage describes a Cherry dataset designed
 + to study fruit detection, segmentation and development
 
+To aid in the research and develop cherry-related applications, we present the Cherry CO dataset, a novel detection and segmentation dataset of cherries. This dataset contains 3006 labeled images of cherries, with over 15000 individual cherries annotated. The images were obtained from a cherry plantation during three weeks, showing different degrees of maturity. The annotation criteria included aspects such as maturity and position relative to the camera to categorize other fruits. To the best of our knowledge, this is the first publicly available dataset for cherry detection and segmentation.
+
 ## Dataset
 
 [Dataset](https://drive.google.com/drive/u/1/folders/1_-sOfq6KC62i9_rKeMwwGba5uBOaagaj) 
