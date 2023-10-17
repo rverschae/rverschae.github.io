@@ -18,11 +18,11 @@ This webpage describes a Cherry dataset designed
 
 ## Dataset
 
-[Dataset]([https://github.com/LuisCossioUOH/evaluation_Cherry_CO](https://drive.google.com/drive/u/1/folders/1_-sOfq6KC62i9_rKeMwwGba5uBOaagaj) 
+[Dataset](https://drive.google.com/drive/u/1/folders/1_-sOfq6KC62i9_rKeMwwGba5uBOaagaj) 
 
 ## Software
 
-[Evaluation Software](https://github.com/LuisCossioUOH/evaluation_Cherry_CO) uses the library pycocotools
+[Evaluation Software](https://github.com/LuisCossioUOH/evaluation_Cherry_CO) -- uses the library pycocotools
 
 ## Publications and presentations
 
