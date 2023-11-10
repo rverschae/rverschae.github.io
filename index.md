@@ -24,8 +24,8 @@
 See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information.
 
 # Main Research Projects 
-+ Director(alternate), [Technological Research 2023 - IT23I0012] “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(alternate), [Proyecto FIC "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), Technological Research 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), [FIC Project  "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
 # Main Outreach Projects 
 + Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
@@ -43,15 +43,15 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 - Robot Vision
 
 ## Computer Vision & Pattern Recognition Applications
-- Machine Learning for education
+- Machine Learning for Education
 - Machine Learning for bioinformatics
 - Machine Learning for health
 
 # News
 
 ## 2023
-- [New Paper] on "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis" with I Bugueno-Cordova
- available at [IEEE Access](([https://www.latinxinai.org/iccv-2023](https://ieeexplore.ieee.org/document/10298106))), 2023.
+- [New Paper] on "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis" with Ignacio Bugueno-Cordova,
+ available at [IEEE Access](https://ieeexplore.ieee.org/document/10298106), 2023.
 - [October 2023] We are looking for a Postdoc / Research Engineer to work on Machine Learning applied to bio-engineering problems, particularly cancer-related. [More details here](https://drive.google.com/file/d/1vb8ZOSv45Jtagg__yAqISPzX3mxFWvkX/view)
 - [ICCV23 - LAXAI] Ignacio Bugueno will be presenting our work on "Event-based Facial Expression Recognition and Learning Framework", at [ICCV23 - LAXAI workshop]((https://www.latinxinai.org/iccv-2023)), Paris 2023.
 - [New Paper] on "Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification" with Christopher Flores, accepted at [IDEAL](https://ideal2023.uevora.pt/general/), Portugal 2023
