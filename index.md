@@ -50,6 +50,12 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2023
+- [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores
+ to be presented at ICICT 2024, London, UK.
+- [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
+- [New Paper] on "A Color Event-Based Camera Emulator for Robot Vision" with Ignacio Bugueno-Cordova, Robert Guaman and Miguel Campusano, to be presented at RoboVis 2024, Roma, Italy.
+
+## 2023
 - [New Paper] on "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis" with Ignacio Bugueno-Cordova,
  available at [IEEE Access](https://ieeexplore.ieee.org/document/10298106), 2023.
 - [October 2023] We are looking for a Postdoc / Research Engineer to work on Machine Learning applied to bio-engineering problems, particularly cancer-related. [More details here](https://drive.google.com/file/d/1vb8ZOSv45Jtagg__yAqISPzX3mxFWvkX/view)
