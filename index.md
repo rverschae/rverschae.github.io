@@ -50,6 +50,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2024
+- [[Postdoctoral Fondecyt Advisor](https://www.anid.cl/concursos/concurso/?id=683)] Since March 2024 I am Sponsor of Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual serving, digital twins and event vision in construction"
 - [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores
  to be presented at ICICT 2024, London, UK.
 - [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
