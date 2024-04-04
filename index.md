@@ -8,11 +8,8 @@
 </div>
 
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
-+ Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Associated Researcher, [Centro UOH de Bio Ingenieria(CUBI)], U. de O'Higgins, Chile 
-+ Associated Researcher, [Business Intelligence Center (CEINE)](http://www.ceine.cl/en/), U. de Chile, Chile 
 
 ## Contact 
 
@@ -50,7 +47,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2024
-- [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I will Sponsor of Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in construction
+- [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I am Sponsoring the Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in Construction
 - [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores
  to be presented at ICICT 2024, London, UK.
 - [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
