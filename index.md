@@ -24,10 +24,6 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 + Director(alternate), Technological Research 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director(alternate), [FIC Project  "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
-# Main Outreach Projects 
-+ Director, [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(alternate), [Science Festival (FECI) O'Higgins](https://festivaldelasciencias.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-
 # Main Research Lines
 ## Smart Agriculture
 - Fruit Detection, Tracking, Counting & Monitoring
@@ -47,7 +43,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2024
-- [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I am Sponsoring the Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in Construction
+- [New Paper] on "Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition" with Luis Cossio and Javier Ruiz-del-Solar, Accepted at IEEE RA-L.
+- [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I am Sponsoring researcher for the Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in Construction
 - [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores
  to be presented at ICICT 2024, London, UK.
 - [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
