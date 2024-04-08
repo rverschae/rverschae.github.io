@@ -37,8 +37,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 ## Computer Vision & Pattern Recognition Applications
 - Machine Learning for Education
-- Machine Learning for bioinformatics
-- Machine Learning for health
+- Machine Learning for Health
+- Machine Learning for Bioinformatics
 
 # News
 
