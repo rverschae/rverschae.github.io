@@ -8,6 +8,7 @@
 
 ## News
 
+2024/04/10 Web Site is updated.
 2023/10/17 Web Site is created.
 
 * * *
@@ -30,7 +31,7 @@ To aid in the research and develop cherry-related applications, we present the C
 
 This dataset was used in the following works. In case you use this data for your research, please cite them.
 
-### (Under view)
+### (Under review)
 
 ### Master thesis (Luis Cossio)
 
