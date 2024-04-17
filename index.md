@@ -43,10 +43,10 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 # News
 
 ## 2024
+- [New Event] during December 2024 we are organizing the [LACORO](https://lacoro.org) Summer School on Robotics in Chile. Come join us! 
 - [New Paper] on "Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition" with Luis Cossio and Javier Ruiz-del-Solar, Accepted at IEEE RA-L.
 - [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I am Sponsoring researcher for the Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in Construction
-- [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores
- to be presented at ICICT 2024, London, UK.
+- [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores to be presented at ICICT 2024, London, UK.
 - [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
 - [New Paper] on "A Color Event-Based Camera Emulator for Robot Vision" with Ignacio Bugueno-Cordova, Robert Guaman and Miguel Campusano, to be presented at RoboVis 2024, Roma, Italy.
 
@@ -133,6 +133,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 ## 2014
 * [SmartGridComm, 2014] Paper on "A Distributed Hierarchical Architecture for Community-based Power Balancing" to be presented at the IEEE SmartGridComm'2014 conference. [PDF presentation](presentations/smartgridcomm2014_Rodrigo_Verschae.pdf)
 * [ECC, 2014] Paper on a "Distributed coordination framework for on-line scheduling and power demand balancing of household communities" presented at the European control conference, Strasbourg, France.
+
 ## 2013
 * [New affiliation, 2013] I am with the [Matsuyama Lab](http://vision.kuee.kyoto-u.ac.jp/), working on distributed coordination and mode scheduling within the context of the [i-Energy](http://i-energy.jp/en_index.html) project. 
 * [Book chapter, 2013] The book chapter I co-authored (titled "Thermal Face Recognition in Unconstrained Environments using histograms of LBP Features") is now available as part of the Springer book [Local Binary Patterns: New Variants and Applications](http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-39288-7) (also at [Amazon](http://www.amazon.com/Local-Binary-Patterns-Applications-Computational/dp/3642392881)).
@@ -150,16 +151,9 @@ My research interests include computer and robot vision, machine learning, and i
   
 I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 2010), a M.Sc. in Applied Mathematics (Ecole Normale Superieure (ENS) de Cachan, France, 2006), an Electrical Engineering degree (Universidad de Chile, 2003), and a Bachelor in Computer Engineering degree (Universidad de Chile, 2002).   
 
-From 2020 to 2023, I was the Institute of Engineering Sciences director, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
+From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
 
-I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 44 (2023), I am an active researcher with over 60 publications in international conferences and journals. Currently, I am an associate editor for  Frontiers in Robotics and AI (Specialty section on Robot Vision and Artificial Perception) and SCI MDPI Journal.
-
-My current research interests include: 
-----
-+ Distributed, autonomous, robotic and multi-agent systems
-+ Coordinated energy management
-+ Computer and robot vision, machine learning, pattern recognition
-+ Object detection and recognition; scene understanding.
+I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 46 (2024), I am an active researcher with over 60 publications in international conferences and journals. 
 
 * * *
 
