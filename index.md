@@ -144,7 +144,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 
 # About
 
-I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile, and before that (2015-2018) I was an assistant professor at the Graduate School of Informatics, Kyoto University. Japan. 
+I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018), I was an assistant professor at the Graduate School of Informatics, Kyoto University, Japan.
 
 My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
   
