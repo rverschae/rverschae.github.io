@@ -6,7 +6,11 @@
 - Field Robotics
 
 ## Publications
-- 
+- L Cossio-Montefinale, J Ruiz-del-Solar, R Verschae, Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition, IEEE Robotics and Automation Letters, 2024
+- CA Flores, R Verschae, Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification, International Conference on Intelligent Data Engineering and Automated, 2023
+-  R Verschae, Smart Technologies in Agriculture, Encyclopedia of Smart Agriculture Technologies, 1-11, 2023
+- G Gil, DE Casagrande, LP Cortés, R Verschae, Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots, 
+Smart Agricultural Technology 3, 100069, 2023
 
 ## News
 - [New Paper] on "[Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition](https://ieeexplore.ieee.org/document/10508478)" with Luis Cossio and Javier Ruiz-del-Solar, published at IEEE RA-L.
