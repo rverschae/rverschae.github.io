@@ -26,12 +26,12 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 + Director(alternate), [FIC Project  "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
 # Main Research Lines
-## Smart Agriculture
+## [Smart Agriculture](https://rodrigo.verschae.org/smartagro)
 - Fruit Detection, Tracking, Counting & Monitoring
 - Wireless Sensor Networks, Telemetry & Modelling
 - Field Robotics
   
-## Event-Based Vision
+## [Event-Based Vision](https://rodrigo.verschae.org/eventvision)
 - Gesture and Expression Recognition
 - Motion Analisis
 - Robot Vision
