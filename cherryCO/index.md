@@ -8,6 +8,7 @@
 
 ## News
 
+2024/05/01 Web Site is updated.
 2024/04/10 Web Site is updated.
 2023/10/17 Web Site is created.
 
