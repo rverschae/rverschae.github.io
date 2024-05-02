@@ -31,7 +31,16 @@ To aid in the research and develop cherry-related applications, we present the C
 
 This dataset was used in the following works. In case you use this data for your research, please cite them.
 
-### (Under review)
+Cossio-Montefinale L, Ruiz-del-Solar J, Verschae R. *Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition*. IEEE Robot Autom Lett. 2024. doi:10.1109/lra.2024.3393214
+
+@article{cossio2024cherry,
+  title={Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition},
+  author={Cossio-Montefinale, Luis and Ruiz-del-Solar, Javier and Verschae, Rodrigo},
+  journal={IEEE Robotics and Automation Letters},
+  year={2024},
+  publisher={IEEE}
+}
+
 
 ### Master thesis (Luis Cossio)
 
