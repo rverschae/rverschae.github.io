@@ -33,7 +33,7 @@ This dataset was used in the following works. In case you use this data for your
 
 L. Cossio-Montefinale, J. Ruiz-del-Solar and R. Verschae, *"Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition,"* in IEEE Robotics and Automation Letters, doi: 10.1109/LRA.2024.3393214.
 
-
+```
 @article{cossio2024cherry,
   author={Cossio-Montefinale, Luis and Ruiz-del-Solar, Javier and Verschae, Rodrigo},
   journal={IEEE Robotics and Automation Letters}, 
@@ -45,7 +45,7 @@ L. Cossio-Montefinale, J. Ruiz-del-Solar and R. Verschae, *"Cherry CO Dataset: a
   keywords={Image segmentation;Cameras;Task analysis;Annotations;Image resolution;Greenhouses;Green products;Data Sets for Robot Learning;Object Detection, Segmentation and Categorization;Agricultural Automation;Deep Learning for Visual Perception},
   doi={10.1109/LRA.2024.3393214}
 }
-
+```
 
 ### Master thesis (Luis Cossio)
 
