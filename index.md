@@ -22,7 +22,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
 
 # Main Research Projects 
-+ Director(alternate), Technological Research 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), Technological Research Fondef IDeA 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director(alternate), [FIC Project  "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
 # Main Research Lines
