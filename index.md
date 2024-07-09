@@ -37,8 +37,8 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 - Robot Vision
 
 ## Computer Vision & Pattern Recognition Applications
-- Machine Learning for Energy
 - Machine Learning for Education
+- Machine Learning for Energy
 - Machine Learning for Health
 - Machine Learning for Bioinformatics
 
@@ -129,8 +129,8 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 * [New paper, June 2015] paper on [Coordinated Energy Management for Inter-Community Imbalance Minimization](http://dx.doi.org/10.1016/j.renene.2015.07.039) now available at RENE (Renewable Energy journal, Elsevier; Impact factor 3.476). [PDF available here](http://vision.kuee.kyoto-u.ac.jp/japanese/happyou/pdf/Rodrigo_RENE_2015.pdf).
 * [ASN 2015] work on **Coordinated Energy Management** presented at the Singapore-Japan Joint Workshop on ASN ([Ambient Intelligence and Sensor Networks](http://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=ee1b41540b98d3083a9345907a7698c5fc3ee434f947c17480cc77e206ab9790&tgid=IEICE-ASN&layout=&lang=eng)), in Singapore, December 2015.
 * [New paper, Nov. 2015] co-authored paper on [Object Detection: Current and Future Directions](http://dx.doi.org/10.3389/frobt.2015.00029) is now available at Frontiers in Robotics and AI.
-* [New paper, Nov. 2015] co-authored paper on [A Realistic Virtual Environment for Evaluating Face Analysis Systems under Dynamic Conditions Pattern Recognition]() has been accepted for publication at PR (Pattern Recognition, Elsevier; Impact Factor 3.096).
-* [New paper, Nov. 2015]: co-authored paper on [An enhanced representation of thermal faces for improving local appearance-based face recognition](http://www.tandfonline.com/doi/full/10.1080/10798587.2015.1110288) is available at IASC (Intelligent Automation and Soft Computing, Taylor & Francis).
+* [New paper, Nov. 2015] co-authored paper on [A Realistic Virtual Environment for Evaluating Face Analysis Systems under Dynamic Conditions Pattern Recognition] has been accepted for publication at PR (Pattern Recognition, Elsevier; Impact Factor 3.096).
+* [New paper, Nov. 2015] co-authored paper om [An enhanced representation of thermal faces for improving local appearance-based face recognition](http://www.tandfonline.com/doi/full/10.1080/10798587.2015.1110288) is available at IASC (Intelligent Automation and Soft Computing, Taylor & Francis).
 * [New position, April 2015], I am a program-specific **Assistant Professor** at the Graduate School of Informatics, Kyoto University
 * Since 2015, I am an Associate Editor of the Journal Frontiers in Robotics and AI ([specialty section on Vision Systems Theory, Tools and Applications](http://journal.frontiersin.org/journal/all/section/vision-systems-theory-tools-and-applications)).
 
