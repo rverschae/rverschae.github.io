@@ -166,3 +166,5 @@ I have participated in international projects and developed algorithms for large
 ```html
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'B0B710AKXS');kofiwidget2.draw();</script> 
 ```
+
+* * *
