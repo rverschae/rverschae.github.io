@@ -45,6 +45,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2024
+- [Associate Editor] Since August 2024, I am Associate Editor of the Journal [Applied Soft Computing (ASOC](https://www.sciencedirect.com/journal/applied-soft-computing).
 - [New Visit] Research Visitor @Kyoto Institute of Technology, Japan (June 2024 -> present).
 - [New Visit] Research Visitor @Kyushu Institute of Technology, Japan (March 2024 -> present).
 - [New Event] During December 2024 we are organizing the [LACORO](https://lacoro.org) Summer School on Robotics in Chile. Come join us! 
