@@ -22,7 +22,8 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
 
 # Main Research Projects 
-+ Director(alternate), [FIC Project  "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director, FOVI Project "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture", [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), [FIC Project "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director(alternate), Technological Research Fondef IDeA 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
 # Main Research Lines
@@ -45,8 +46,11 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2024
-- [Associate Editor] Since August 2024, I am Associate Editor of the Journal [Applied Soft Computing (ASOC](https://www.sciencedirect.com/journal/applied-soft-computing).
-- [New Visit] Research Visitor @Kyoto Institute of Technology, Japan (June 2024 -> present).
+- [New Visit] Visiting Professor @ENS Paris-Saclay, Japan (October - December 2024).
+- [New Visit] Short research Visit @Universidad de la Republica, Uruguay (November 2024).
+- [New Visit] Short research Visit @L3S Center, Hannover University, Germany (November 2024).
+- [Associate Editor] Since August 2024, I am Associate Editor of the Journal [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing).
+- [New Visit] Visiting Professor @Kyoto Institute of Technology, Japan (June - July & September & August 2024).
 - [New Visit] Research Visitor @Kyushu Institute of Technology, Japan (March 2024 -> present).
 - [New Event] During December 2024, we are organizing the [LACORO](https://lacoro.org) Summer School on Robotics in Chile. Come join us! 
 - [New Paper] on "[Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition](https://ieeexplore.ieee.org/document/10508478)" with Luis Cossio and Javier Ruiz-del-Solar, published at IEEE RA-L.
