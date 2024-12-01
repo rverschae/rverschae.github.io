@@ -46,6 +46,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2024
+- [New Paper] on "[Estimating time-varying delays and parametric uncertainties in teleoperated robots](https://ieeexplore.ieee.org/document/10508478)" with Rohit Singla, S Escaida, and H Parthasarathy, published at the Nonlinear Dynamics Journal.
 - [New Visit] Visiting Professor @ENS Paris-Saclay, Japan (October - December 2024).
 - [New Visit] Short research Visit @Universidad de la Republica, Uruguay (November 2024).
 - [New Visit] Short research Visit @L3S Center, Hannover University, Germany (November 2024).
