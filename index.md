@@ -41,7 +41,6 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 - Machine Learning for Education
 - Machine Learning for Energy
 - Machine Learning for Health
-- Machine Learning for Bioinformatics
 
 # News
 
@@ -50,7 +49,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 - [New Visit] Visiting Professor @ENS Paris-Saclay, Japan (October - December 2024).
 - [New Visit] Short research Visit @Universidad de la Republica, Uruguay (November 2024).
 - [New Visit] Short research Visit @L3S Center, Hannover University, Germany (November 2024).
-- [Associate Editor] Since August 2024, I am Associate Editor of the Journal [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing).
+- [Associate Editor] Since August 2024, Associate Editor of the Journal [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing).
 - [New Visit] Visiting Professor @Kyoto Institute of Technology, Japan (June - July & September & August 2024).
 - [New Visit] Research Visitor @Kyushu Institute of Technology, Japan (March 2024 -> present).
 - [New Event] During December 2024, we are organizing the [LACORO](https://lacoro.org) Summer School on Robotics in Chile. Come join us! 
