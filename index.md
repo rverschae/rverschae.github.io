@@ -45,7 +45,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
-- [New Paper] on "[Orchard Sweet Cherry Color Distribution Estimation from Wireless Sensor Networks and Video-based Fruit Detection](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)", Luis Cossio, Cristobal Quininao, Computers and Electronics in Agriculture, 2025 (accepted)
+- [New Paper] on "[Orchard Sweet Cherry Color Distribution Estimation from Wireless Sensor Networks and Video-based Fruit Detection](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture)", with Luis Cossio, Cristobal Quininao, Computers and Electronics in Agriculture, 2025 (accepted)
 - [Khipu] Invited spotlight speaker at [Khipu](https://khipu.ai/khipu2025/program-2025/), Santiago, Chile, March 2025
 - [New Paper] on "[Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005715)", with R Guamán-Rivera and J Delpiano, published at Neurocomputing
 - [New Paper] on "[Estimating time-varying delays and parametric uncertainties in teleoperated robots](https://link.springer.com/article/10.1007/s11071-024-10602-1)" with Rohit Singla, S Escaida, and H Parthasarathy, published at the Nonlinear Dynamics Journal.
