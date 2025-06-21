@@ -45,10 +45,15 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
+- [New Project] UOH internal URO Grant for Project "Technology transfer of a Precision Livestock monitoring system in the coastal drylands of O'Higgins: LoraWAN and Computer Vision for location, behavior analysis, and automated counting of sheep and cattle.
+- [New Paper] on "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Ignacio Bugueño Córdova, Javier Ruiz-del-Solar, Rodrigo Verschae at Event Vision Workshop at CVPR 2025.
+- [New poster] on "eBIRD: Event-Based Image Reconstruction by a Denoising Diffusion Probabilistic Model Control", FABIAN IGNACIO VALDERRAMA PENALOZA, Ignacio Bugueño Córdova, Rodrigo Verschae, at LatinX in CV (LXCV) Workshop at CVPR 2025
 - [New Paper] on "[Orchard Sweet Cherry Color Distribution Estimation from Wireless Sensor Networks and Video-based Fruit Detection]([https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture](https://authors.elsevier.com/a/1kvTfcFCSf4nr ))", with Luis Cossio, Cristobal Quininao, Computers and Electronics in Agriculture,  Volume 235, 2025
 - [Khipu] Invited spotlight speaker at [Khipu](https://khipu.ai/khipu2025/program-2025/), Santiago, Chile, March 2025
 - [New Paper] on "[Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005715)", with R Guamán-Rivera and J Delpiano, published at Neurocomputing
 - [New Paper] on "[Estimating time-varying delays and parametric uncertainties in teleoperated robots](https://link.springer.com/article/10.1007/s11071-024-10602-1)" with Rohit Singla, S Escaida, and H Parthasarathy, published at the Nonlinear Dynamics Journal.
+- [New Project] ANID FOVI Project ["Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"](https://rodrigo.verschae.org/fovi2025/)
+- [New Project] UOH internal Interdisciplinary Grant for Project "Building models of cherry development and maturity using AI and 3D computer vision from hyperspectral imagery"
 
 ## 2024
 - [New Visit] Visiting Professor @ENS Paris-Saclay, Japan (October - December 2024).
