@@ -9,8 +9,7 @@
 - L Cossio-Montefinale, C Quiñinao, R Verschae. "Orchard sweet cherry color distribution estimation from wireless sensor networks and video-based fruit detection", Computers and Electronics in Agriculture 235, 110334
 - L Cossio-Montefinale, J Ruiz-del-Solar, R Verschae, "Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition", IEEE Robotics and Automation Letters, 2024
 - C Flores, A Valenzuela, R Verschae, "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" Proceedings of Ninth International Congress on Information and Communication, 2024
-- CA Flores, R Verschae, "Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification", International Conference on Intelligent Data Engineering and Automated, 2023
--  R Verschae, "Smart Technologies in Agriculture", Encyclopedia of Smart Agriculture Technologies, 1-11, 2023
+- R Verschae, "Smart Technologies in Agriculture", Encyclopedia of Smart Agriculture Technologies, 1-11, 2023
 - G Gil, DE Casagrande, LP Cortés, R Verschae, "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots",  Smart Agricultural Technology 3, 100069, 2023
 
 ## News
