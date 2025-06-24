@@ -6,8 +6,10 @@
 - Robot Vision
 
 ## Publications
-- R Verschae, I Bugueno-Cordova, Event-based Gesture and Facial Expression Recognition: A Comparative Analysis, IEEE Access 11, 121269-121283, 2023
+- I Bugueno-Cordova, J Ruiz-del-Solar, R Verschae, "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Proceedings of the Computer Vision and Pattern Recognition Conference, 5004-5012, 2025
+- R Guamán-Rivera, J Delpiano, R Verschae, "Event-based optical flow: Method categorisation and review of techniques that leverage deep learning", Neurocomputing 635, 129899, 2025
 - I Bugueno-Cordova, R Guaman, M Campusano, R Verschae, "A Color Event-Based Camera Emulator for Robot Vision", to appear, RoboVis 2024, Roma, Italy.
+- R Verschae, I Bugueno-Cordova, "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis", IEEE Access 11, 121269-121283, 2023
 
 ## News
 - [New Paper] on "A Color Event-Based Camera Emulator for Robot Vision" with Ignacio Bugueno-Cordova, Robert Guaman and Miguel Campusano, to be presented at RoboVis 2024, Roma, Italy.
