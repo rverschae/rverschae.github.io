@@ -45,6 +45,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
+- [New Recognition] I have been eleveted to IEEE Senior member.
 - [New Project] UOH internal URO Grant for Project "Technology transfer of a Precision Livestock monitoring system in the coastal drylands of O'Higgins: LoraWAN and Computer Vision for location, behavior analysis, and automated counting of sheep and cattle.
 - [New Paper] on "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Ignacio Bugueño Córdova, Javier Ruiz-del-Solar, Rodrigo Verschae at Event Vision Workshop at CVPR 2025.
 - [New poster] on "eBIRD: Event-Based Image Reconstruction by a Denoising Diffusion Probabilistic Model Control", FABIAN IGNACIO VALDERRAMA PENALOZA, Ignacio Bugueño Córdova, Rodrigo Verschae, at LatinX in CV (LXCV) Workshop at CVPR 2025
