@@ -22,7 +22,7 @@ See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNk
 Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
 
 # Main Research Projects 
-+ Director, FOVI Project "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture", [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director, [FOVI Project "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"](https://rodrigo.verschae.org/fovi2025/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director, [FIC Project "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 + Director(alternate), Technological Research Fondef IDeA 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
@@ -45,7 +45,9 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
-- [New Recognition] I have been eleveted to IEEE Senior member.
+- [New Paper] on "Visualization of Profiles and Trajectories in Early Childhood Math Abilities using Data Mining Techniques", accepted at ICETC 2025, joint work with Ignacio Bugueno-Cordova, Jairo Navarrete, and Christopher A. Flores.
+- [New Paper] on "Active Learning in Biomedical Text Classification Using a Bag-of-Regular-Expressions Approach",  published at IEEE CBMS 2025 (IEEE International Symposium on Computer-Based Medical Systems), joint work with Christopher A. Flores.
+- [New Recognition] I have been eleveted to IEEE Senior member
 - [New Project] UOH internal URO Grant for Project "Technology transfer of a Precision Livestock monitoring system in the coastal drylands of O'Higgins: LoraWAN and Computer Vision for location, behavior analysis, and automated counting of sheep and cattle.
 - [New Paper] on "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Ignacio Bugueño Córdova, Javier Ruiz-del-Solar, Rodrigo Verschae at Event Vision Workshop at CVPR 2025.
 - [New poster] on "eBIRD: Event-Based Image Reconstruction by a Denoising Diffusion Probabilistic Model Control", FABIAN IGNACIO VALDERRAMA PENALOZA, Ignacio Bugueño Córdova, Rodrigo Verschae, at LatinX in CV (LXCV) Workshop at CVPR 2025
