@@ -34,7 +34,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
   
 ## [Event-Based Vision](https://rodrigo.verschae.org/eventvision)
 - Gesture and Expression Recognition
-- Motion Analisis
+- Motion Analysis
 - Robot Vision
 
 ## Computer Vision & Pattern Recognition Applications
@@ -45,9 +45,10 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
+- [New Award] on Technological and Scientific Development, from the Institute of Engineers of Chile, for our work on Precision Agriculture.
 - [New Paper] on "Visualization of Profiles and Trajectories in Early Childhood Math Abilities using Data Mining Techniques", accepted at ICETC 2025, joint work with Ignacio Bugueno-Cordova, Jairo Navarrete, and Christopher A. Flores.
 - [New Paper] on "Active Learning in Biomedical Text Classification Using a Bag-of-Regular-Expressions Approach",  published at IEEE CBMS 2025 (IEEE International Symposium on Computer-Based Medical Systems), joint work with Christopher A. Flores.
-- [New Recognition] I have been eleveted to IEEE Senior member
+- [New Recognition] I have been elevated to IEEE Senior member
 - [New Project] UOH internal URO Grant for Project "Technology transfer of a Precision Livestock monitoring system in the coastal drylands of O'Higgins: LoraWAN and Computer Vision for location, behavior analysis, and automated counting of sheep and cattle.
 - [New Paper] on "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Ignacio Bugueño Córdova, Javier Ruiz-del-Solar, Rodrigo Verschae at Event Vision Workshop at CVPR 2025.
 - [New poster] on "eBIRD: Event-Based Image Reconstruction by a Denoising Diffusion Probabilistic Model Control", FABIAN IGNACIO VALDERRAMA PENALOZA, Ignacio Bugueño Córdova, Rodrigo Verschae, at LatinX in CV (LXCV) Workshop at CVPR 2025
@@ -175,7 +176,7 @@ I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 20
 
 From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
 
-I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 46 (2024), I am an active researcher with over 60 publications in international conferences and journals. 
+I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 47 (2025), I am an active researcher with over 60 publications in international conferences and journals. In 2025, he received from the Institute of Engineers of Chile, the Technological and Scientific Development Award for his work on Precision Agriculture.
 
 * * *
 
