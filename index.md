@@ -166,6 +166,14 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 * * *
 
+# Current Staff / Project Engineers
+
+* [Jaime Varas], Agriculture Engineer
+* [Matias Pastene], Computer Engineer
+* [Luis Cosio], Electrical Engineer
+* [Ignacio Bugueno], Electrical Engineer
+* 
+
 # Current Students/Postdocs
 
 * [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
@@ -180,8 +188,9 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 * [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte)
 * [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio)
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
-* [Jose Astorga], Master in Computer Electrical at Universidad de Chile (Now at Developer at Cero.ia)
+* [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
 * [Ignacio Bugueno], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at)
+* [Matias Pastene], Computer Engineer at Universidad  O'Higgins
 * [Ignacio Vasquez], Electrical Engineer at Universidad  O'Higgins
 * [Hernan Moreno], Electrical Engineer Student at Universidad O'Higgins
 * [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
