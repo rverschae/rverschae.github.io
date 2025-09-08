@@ -166,6 +166,34 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 * * *
 
+# Current Students/Postdocs
+
+* [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
+* [Ariel Zuñiga], Master Student at Universidad de O'Higgins
+* [Nicolas Araya], Master Student at Universidad de O'Higgins
+* [Ariel Valenzuela], Electrical Engineer Student at Universidad de O'Higgins
+* [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
+
+# Alummi
+
+* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Wisconsin University)
+* [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte)
+* [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio)
+* [Luis Cossio], Master Student at Universidad de Chile (Now PhD Student at Universidad de Chile)
+* [Jose Astorga], Master Student at Universidad de Chile (Now at Developer at Cero.ia)
+* [Ignacio Bugueno], Master Student at Universidad de Chile (Now PhD Student at)
+* [Ignacio Vasquez], Engineer Student at Universidad  O'Higgins
+* [Hernan Moreno], Engineer Student at Universidad O'Higgins
+* [Daniel Gomez], Engineer Student at Universidad O'Higgins
+* [Felipe Gomez], Engineer Student at Universidad O'Higgins
+* [Christopher Sandoval], Engineer Student at Universidad O'Higgins
+* [Fabian Valderrama], Engineer Student at Universidad O'Higgins
+* [Luis Miranda], Engineer Student at Universidad O'Higgins
+* [Patricio Fernandez], Engineer Student at Universidad O'Higgins
+
+  
+* * *
+
 # About
 
 I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018), I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
