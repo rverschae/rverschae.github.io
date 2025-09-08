@@ -179,17 +179,17 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 * [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Wisconsin University)
 * [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte)
 * [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio)
-* [Luis Cossio], Master Student at Universidad de Chile (Now PhD Student at Universidad de Chile)
-* [Jose Astorga], Master Student at Universidad de Chile (Now at Developer at Cero.ia)
-* [Ignacio Bugueno], Master Student at Universidad de Chile (Now PhD Student at)
-* [Ignacio Vasquez], Engineer Student at Universidad  O'Higgins
-* [Hernan Moreno], Engineer Student at Universidad O'Higgins
-* [Daniel Gomez], Engineer Student at Universidad O'Higgins
-* [Felipe Gomez], Engineer Student at Universidad O'Higgins
-* [Christopher Sandoval], Engineer Student at Universidad O'Higgins
-* [Fabian Valderrama], Engineer Student at Universidad O'Higgins
-* [Luis Miranda], Engineer Student at Universidad O'Higgins
-* [Patricio Fernandez], Engineer Student at Universidad O'Higgins
+* [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
+* [Jose Astorga], Master in Computer Electrical at Universidad de Chile (Now at Developer at Cero.ia)
+* [Ignacio Bugueno], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at)
+* [Ignacio Vasquez], Electrical Engineer at Universidad  O'Higgins
+* [Hernan Moreno], Electrical Engineer Student at Universidad O'Higgins
+* [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
+* [Felipe Gomez], Computer Engineer at Universidad O'Higgins
+* [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
+* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins
+* [Luis Miranda], Computer Engineer at Universidad O'Higgins
+* [Patricio Fernandez], Computer Engineer at Universidad O'Higgins
 
   
 * * *
