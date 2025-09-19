@@ -166,32 +166,31 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 * * *
 
-# Current Staff / Project Engineers
+# Current Staff, Postdocs & Project Engineers
 
 * [Jaime Varas], Agriculture Engineer
-* [Matias Pastene], Computer Engineer
 * [Luis Cosio], Electrical Engineer
 * [Ignacio Bugueno], Electrical Engineer
-* 
-
-# Current Students/Postdocs
-
 * [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
+* [Matias Pastene], Computer Engineer
+
+# Current Students
+
 * [Ariel Zuñiga], Master Student at Universidad de O'Higgins
 * [Nicolas Araya], Master Student at Universidad de O'Higgins
 * [Ariel Valenzuela], Electrical Engineer Student at Universidad de O'Higgins
 * [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
 
-# Alummi
+# Alumni
 
-* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Wisconsin University)
-* [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte)
-* [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio)
+* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin)
+* [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
+* [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
 * [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
-* [Ignacio Bugueno], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at)
-* [Matias Pastene], Computer Engineer at Universidad  O'Higgins
-* [Ignacio Vasquez], Electrical Engineer at Universidad  O'Higgins
+* [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
+* [Matias Pastene], Computer Engineer at Universidad O'Higgins
+* [Ignacio Vasquez], Electrical Engineer at Universidad O'Higgins
 * [Hernan Moreno], Electrical Engineer Student at Universidad O'Higgins
 * [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Felipe Gomez], Computer Engineer at Universidad O'Higgins
