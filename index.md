@@ -45,6 +45,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 
 ## 2025
+- [New Paper] Singla, R., Verschae, R. & Parthasarathy, H. "Large deviation-based noise mitigation in coupled quantum robotic systems". Quantum Inf Process 24, 358 (2025). https://doi.org/10.1007/s11128-025-04982-5
 - [New Award] on Technological and Scientific Development, from the Institute of Engineers of Chile, for our work on Precision Agriculture.
 - [New Paper] on "Visualization of Profiles and Trajectories in Early Childhood Math Abilities using Data Mining Techniques", accepted at ICETC 2025, joint work with Ignacio Bugueno-Cordova, Jairo Navarrete, and Christopher A. Flores.
 - [New Paper] on "Active Learning in Biomedical Text Classification Using a Bag-of-Regular-Expressions Approach",  published at IEEE CBMS 2025 (IEEE International Symposium on Computer-Based Medical Systems), joint work with Christopher A. Flores.
