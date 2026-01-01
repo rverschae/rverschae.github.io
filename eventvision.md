@@ -6,6 +6,8 @@
 - Robot Vision
 
 ## Publications
+- R Verschae, I Bugueno-Cordova, "evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition", arXiv, 2025
+- N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, P Negri, ME Buemi, "Exploring spatial-temporal dynamics in event-based facial microexpression analysis", Proceedings of the IEEE/CVF International Conference on Computer Vision, 2025
 - I Bugueno-Cordova, J Ruiz-del-Solar, R Verschae, "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Proceedings of the Computer Vision and Pattern Recognition Conference, 5004-5012, 2025
 - R Guamán-Rivera, J Delpiano, R Verschae, "Event-based optical flow: Method categorisation and review of techniques that leverage deep learning", Neurocomputing 635, 129899, 2025
 - I Bugueno-Cordova, R Guaman, M Campusano, R Verschae, "A Color Event-Based Camera Emulator for Robot Vision", to appear, RoboVis 2024, Roma, Italy.
