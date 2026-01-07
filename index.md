@@ -43,8 +43,10 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 - Machine Learning for Health
 
 # News
-
-## 2025
+## 2026
+- [New Paper] R Verschae, I. Bugueno-Cordova, "evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition", Neurocomputing (accepted)
+- - [New Paper] Ariel Zuñiga-Santana, G Facciolo, S Nobuhara, R Verschae, "A Multi-View Photometric Stereo Pipeline for Specular 3D Fruit Reconstruction", WACV 2026 Workshop HARVESTVision (accepted)
+- ## 2025
 - [New Paper] Singla, R., Verschae, R. & Parthasarathy, H. "Large deviation-based noise mitigation in coupled quantum robotic systems". Quantum Inf Process 24, 358 (2025). https://doi.org/10.1007/s11128-025-04982-5
 - [New Award] on Technological and Scientific Development, from the Institute of Engineers of Chile, for our work on Precision Agriculture.
 - [New Paper] on "Visualization of Profiles and Trajectories in Early Childhood Math Abilities using Data Mining Techniques", accepted at ICETC 2025, joint work with Ignacio Bugueno-Cordova, Jairo Navarrete, and Christopher A. Flores.
