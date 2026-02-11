@@ -40,19 +40,19 @@ The tutorial is intended for researchers with no prior experience with event-bas
 ## Names of additional lectures
 ### Daniel Acevedo
 - Email: dacevedo@dc.uba.ar
-- Web: https://scholar.google.com/citations?user=1Yv2P6oAAAAJ&hl=en
+- Web: [https://scholar.google.com/citations?user=1Yv2P6oAAAAJ&hl=en](https://scholar.google.com/citations?user=1Yv2P6oAAAAJ&hl=en)
 - Affiliation: Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Departamento de Computación. Buenos Aires, Argentina.
 - Short bio: Daniel Acevedo is currently an assistant researcher at the ICC (Instituto de Ciencias de la Computación) part of UBA (University of Buenos Aires) and CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas). Daniel also works at the Department of Computer Sciences (FCEyN - UBA) as a professor. His research mainly focuses on digital image processing topics: facial expression recognition, texture analysis and retrieval. As well, he has worked on satellite data compression.
 
 ### Nicolas Mastropasqua:
 - Email: nmastropasqua@dc.uba.ar
-- Web: https://scholar.google.com/citations?user=m-mTz2kAAAAJ&hl=en
+- Web: [https://scholar.google.com/citations?user=m-mTz2kAAAAJ&hl=en](https://scholar.google.com/citations?user=m-mTz2kAAAAJ&hl=en)
 - Affiliation: Universidad de Buenos Aires. Facultad de Ciencias Exactas y Naturales. Departamento de Computación. Buenos Aires, Argentina.
 - Short bio: Nicolas Mastropasqua is a Ph.D. student in Computer Science at Universidad de Buenos Aires. He received the degree in Computer Science from the Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires in 2023. His research interests include computer vision, neuromorphic vision, facial expression analysis, and driver monitoring systems.
 
 ### Ignacio Bugueno-Cordova:
 - Email: i.bugueno@ieee.org
-- Web: https://ibugueno.github.io/
+- Web: [https://ibugueno.github.io/](https://ibugueno.github.io/)
 - Affiliation: Universidad de O’Higgins
 - Short bio: Ignacio Bugueno-Cordova obtained his Electrical Engineering degree in 2018 and his Master of Science degree in 2025, both from Universidad de Chile, Santiago, Chile. He has been a research assistant at the Robotics and Intelligent Systems Laboratory at Universidad de O’Higgins since 2020. In 2025, he was awarded an IEEE CIS Graduate Student Research Grant to conduct a research stay at the L3S Research Center, Hanover, Germany. His research interests include artificial intelligence, computer/event vision, deep learning, IoT, telecommunications, and robotics.
 
@@ -69,8 +69,8 @@ The instructors have experience on face gesture, detection and recognition probl
 - Tutorial presentation on "Face detection” at the IEEE LA-RAS Summer School, Santiago, Chile December 2006 (together with Javier Ruiz-del-Solar)
 
 ## FG + Event-based Related Publications authored by the lectures
-- [1] R Verschae, I Bugueno-Cordova, "evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition", Neurocomputing, 2026, 132641. 
+- [1] R Verschae, I Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, 2026, 132641. 
 - [2] N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, Pablo Negri, Maria Elena Buemi, "Event-based facial microexpression analysis using Spiking Neural Networks", ICPRS, 2025
-- [3] N Mastropasqua, D Acevedo, I Bugueno-Cordova, R Verschae, "Exploring spatial-temporal dynamics in event-based facial microexpression analysis", 2nd Workshop on Neuromorphic Vision ICCV, 2025
-- [4] R Verschae, I Bugueno-Cordova, "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis", in IEEE Access, vol. 11, pp. 121269-121283, 2023, doi: 10.1109/ACCESS.2023.3328220. 
-- [5] I Bugueno-Cordova, R Verschae “ Event-based Facial Expression Recognition", in LatinX in CV Workshop, 2023 International Conference on Computer Vision
+- [3] N Mastropasqua, D Acevedo, I Bugueno-Cordova, R Verschae, "[Exploring spatial-temporal dynamics in event-based facial microexpression analysis](https://arxiv.org/abs/2508.11988)", 2nd Workshop on Neuromorphic Vision ICCV, 2025
+- [4] R Verschae, I Bugueno-Cordova, "[Event-based Gesture and Facial Expression Recognition: A Comparative Analysis](https://ieeexplore.ieee.org/document/10298106/)", in IEEE Access, vol. 11, pp. 121269-121283, 2023, doi: 10.1109/ACCESS.2023.3328220. 
+- [5] I Bugueno-Cordova, R Verschae “Event-based Facial Expression Recognition", in LatinX in CV Workshop, 2023 International Conference on Computer Vision
