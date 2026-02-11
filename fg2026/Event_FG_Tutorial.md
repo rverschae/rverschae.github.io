@@ -1,4 +1,5 @@
-# Face and gesture recognition using event-based cameras - FG2026 Tutotial, Kyoto, Japan
+# Face and gesture recognition using event-based cameras 
+# [FG2026](https://fg2026.ieee-biometrics.org/) Tutorial, Kyoto, Japan
 
 ## Tutorial description and description of the relevance to the FG community 
 Event-based cameras are a recently introduced device that asynchronously senses light intensity changes of each pixel and that can be applied in multiple recognition problems of interest to the community, in particular due to the fact that event-based cameras continuously encode sparse appearance & motion information at a very high speed, with low latency and with a high dynamic range. In the last few years, there has been a great interest in this device, including its use in problems related to the analysis of faces and gestures. Event-based cameras are particularly interesting in the analysis of faces and gestures for their high temporal resolution and high dynamic range, thus eliminating motion blur and allowing handling challenging illumination. More over, they allow to analyzing subtle changes in faces in a continuous stream of data. 
