@@ -29,7 +29,7 @@ The tutorial is intended for researchers with no prior experience with event-bas
 - Background: we assume knowledge in image processing, computer vision, basics of Deep Learning, and basics of signal processing.
 - Slides and prepared material will be made available.
 
-## Main Proposer’s Contact information: 
+## Organizers: 
 ### Rodrigo Verschae
 - Email: rodrigo@verschae.org
 - Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
@@ -37,7 +37,6 @@ The tutorial is intended for researchers with no prior experience with event-bas
 - Affiliation: Universitad Tecnica Universidad Técnica Federico Santa María, Chile
 - Short bio: Rodrigo Verschae is currently with the Universitad Tecnica Universidad Técnica Federico Santa María, Chile. Doctor in Electrical Engineering and Master in Applied Maths, he is interested in Computer Vision, Machine Learning, and Robotics with experience in various application areas. Rodrigo has been Director and Associate Professor at the Institute of Engineering Sciences, Universidad de O’Higgins, aassistant professor at Kyoto University, Japan (2015-2018), a postdoctoral fellow at the Advanced Mining Technology Center AMTC (2011-2013), a research fellow at the Kyushu Institute of Technology, Japan (2009-2011), and an associated researcher at Fraunhofer IPK-Institute, Germany (2004-2005), among others.
 
-## Names of additional lectures
 ### Daniel Acevedo
 - Email: dacevedo@dc.uba.ar
 - Web: [https://scholar.google.com/citations?user=1Yv2P6oAAAAJ&hl=en](https://scholar.google.com/citations?user=1Yv2P6oAAAAJ&hl=en)
