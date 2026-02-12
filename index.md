@@ -45,6 +45,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 # News
 ## 2026
 - [New Affiliation] R Verschae, from March 2026 I am joining Universidad Tecnica Federico Santa Maria (UTFSM), Chile
+- [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), **Inclusion Chair**, August 2026, Kitakyushu, Japan
 - [New Tutorial at FG2026], Kyoto, Japan, on "[Face and gesture recognition using event-based cameras](https://rodrigo.verschae.org//fg2026/Event_FG_Tutorial)", joinly prepared by Rodrigo Verschae, Daniel Acevedo, Nicolas Mastropasqua, Ignacio Bugueno-Cordova.
 - [New Paper] R Verschae, I. Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, Volume 671, 28 March 2026, 132641
 - [New Paper] Ariel Zuñiga-Santana, G Facciolo, S Nobuhara, R Verschae, "A Multi-View Photometric Stereo Pipeline for Specular 3D Fruit Reconstruction", WACV 2026 Workshop HARVESTVision (accepted)
