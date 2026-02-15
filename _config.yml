@@ -23,7 +23,7 @@ repository               : "rverschae/rverschae.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "img/verschae_rodrigo.jpg"
+  avatar           : "https://rodrigo.verschae.org/img/verschae_rodrigo.jpg"
   name             : "Rodrigo Verschae"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision, Machine Learning and Robotics Researcher"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rverschae"
+  github           : # "rverschae"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : rodrigo-verschae-5444418
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -85,7 +85,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Tutorials'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
