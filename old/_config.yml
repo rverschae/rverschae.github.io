@@ -1,0 +1,5 @@
+name: Rodrigo Verschae 
+source: rverschae.github.io
+theme: jekyll-theme-minimal
+kramdown:
+  parse_block_html: true
