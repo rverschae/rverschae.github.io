@@ -1,8 +1,7 @@
 ---
-# this is an empty front matter
+title: "CherryCO Dataset"
+author_profile: false
 ---
-
-# CherryCO Dataset
 
 * * *
 
