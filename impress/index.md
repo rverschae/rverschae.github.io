@@ -1,6 +1,9 @@
-*__STIC-AmSud Program__*
+---
+title: "Image Modeling and Processing for REmote SenSing in agriculture (IMPRESS 2020 - 2021)"
+author_profile: false
+---
 
-*Image Modeling and Processing for REmote SenSing in agriculture (__IMPRESS__ 2020 - 2021)*
+*__STIC-AmSud Program__*
 
 Project number: STIC190027
  

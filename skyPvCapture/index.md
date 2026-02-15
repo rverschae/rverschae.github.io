@@ -1,8 +1,7 @@
 ---
-# this is an empty front matter
+title: "Sky-PV Sub-minute Dataset"
+author_profile: false
 ---
-
-# Sky-PV Sub-minute Dataset
 
 * * *
 
