@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rodrigo Verschae"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-# Rodrigo Verschae
 
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
 + Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
