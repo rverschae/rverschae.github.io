@@ -1,6 +1,12 @@
 ---
-# this is an empty front matter
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 # Rodrigo Verschae
 <div style='float: right'>
@@ -221,4 +227,3 @@ From 2020 to 2023, I was director of the Institute of Engineering Sciences, Univ
 I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 47 (2025), I am an active researcher with over 60 publications in international conferences and journals. In 2025, he received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
 
 * * *
-
