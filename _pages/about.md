@@ -1,56 +1,224 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+# this is an empty front matter
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# Rodrigo Verschae
+<div style='float: right'>
+<a href="http://rodrigo.verschae.org"><img style="width: 8em;" src="http://rodrigo.verschae.org/img/verschae_rodrigo.jpg"></a>
+</div>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
++ Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
++ Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Contact 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
++ Email: rodrigo [at] verschae [dot] org  
++ Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+# Publications 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information. 
+Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# Main Research Projects 
++ Director, [FOVI Project "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"](https://rodrigo.verschae.org/fovi2025/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director, [FIC Project "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director(alternate), Technological Research Fondef IDeA 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Main Research Lines
+## [Smart Agriculture](https://rodrigo.verschae.org/smartagro)
+- Fruit Detection, Tracking, Counting & Monitoring
+- Wireless Sensor Networks, Telemetry & Modelling
+- Field Robotics
+  
+## [Event-Based Vision](https://rodrigo.verschae.org/eventvision)
+- Gesture and Expression Recognition
+- Motion Analysis
+- Robot Vision
 
-**Markdown generator**
+## Computer Vision & Pattern Recognition Applications
+- Machine Learning for Education
+- Machine Learning for Energy
+- Machine Learning for Health
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+# News
+## 2026
+- [New Affiliation] R Verschae, from March 2026 I am joining Universidad Tecnica Federico Santa Maria (UTFSM), Chile
+- [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), **Inclusion Chair**, August 2026, Kitakyushu, Japan
+- [New Tutorial at FG2026], Kyoto, Japan, on "[Face and gesture recognition using event-based cameras](https://rodrigo.verschae.org//fg2026/Event_FG_Tutorial)", joinly prepared by Rodrigo Verschae, Daniel Acevedo, Nicolas Mastropasqua, Ignacio Bugueno-Cordova.
+- [New Paper] R Verschae, I. Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, Volume 671, 28 March 2026, 132641
+- [New Paper] Ariel Zuñiga-Santana, G Facciolo, S Nobuhara, R Verschae, "A Multi-View Photometric Stereo Pipeline for Specular 3D Fruit Reconstruction", WACV 2026 Workshop HARVESTVision (accepted)
+- ## 2025
+- [New Paper] Singla, R., Verschae, R. & Parthasarathy, H. "Large deviation-based noise mitigation in coupled quantum robotic systems". Quantum Inf Process 24, 358 (2025). https://doi.org/10.1007/s11128-025-04982-5
+- [New Award] on Technological and Scientific Development, from the Institute of Engineers of Chile, for our work on Precision Agriculture.
+- [New Paper] on "Visualization of Profiles and Trajectories in Early Childhood Math Abilities using Data Mining Techniques", accepted at ICETC 2025, joint work with Ignacio Bugueno-Cordova, Jairo Navarrete, and Christopher A. Flores.
+- [New Paper] on "Active Learning in Biomedical Text Classification Using a Bag-of-Regular-Expressions Approach",  published at IEEE CBMS 2025 (IEEE International Symposium on Computer-Based Medical Systems), joint work with Christopher A. Flores.
+- [New Recognition] I have been elevated to IEEE Senior member
+- [New Project] UOH internal URO Grant for Project "Technology transfer of a Precision Livestock monitoring system in the coastal drylands of O'Higgins: LoraWAN and Computer Vision for location, behavior analysis, and automated counting of sheep and cattle.
+- [New Paper] on "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning", Ignacio Bugueño Córdova, Javier Ruiz-del-Solar, Rodrigo Verschae at Event Vision Workshop at CVPR 2025.
+- [New poster] on "eBIRD: Event-Based Image Reconstruction by a Denoising Diffusion Probabilistic Model Control", FABIAN IGNACIO VALDERRAMA PENALOZA, Ignacio Bugueño Córdova, Rodrigo Verschae, at LatinX in CV (LXCV) Workshop at CVPR 2025
+- [New Paper] on "[Orchard Sweet Cherry Color Distribution Estimation from Wireless Sensor Networks and Video-based Fruit Detection]([https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture](https://authors.elsevier.com/a/1kvTfcFCSf4nr ))", with Luis Cossio, Cristobal Quininao, Computers and Electronics in Agriculture,  Volume 235, 2025
+- [Khipu] Invited spotlight speaker at [Khipu](https://khipu.ai/khipu2025/program-2025/), Santiago, Chile, March 2025
+- [New Paper] on "[Event-based optical flow: Method categorisation and review of techniques that leverage deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005715)", with R Guamán-Rivera and J Delpiano, published at Neurocomputing
+- [New Paper] on "[Estimating time-varying delays and parametric uncertainties in teleoperated robots](https://link.springer.com/article/10.1007/s11071-024-10602-1)" with Rohit Singla, S Escaida, and H Parthasarathy, published at the Nonlinear Dynamics Journal.
+- [New Project] ANID FOVI Project ["Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"](https://rodrigo.verschae.org/fovi2025/)
+- [New Project] UOH internal Interdisciplinary Grant for Project "Building models of cherry development and maturity using AI and 3D computer vision from hyperspectral imagery"
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## 2024
+- [New Visit] Visiting Professor @ENS Paris-Saclay, Japan (October - December 2024).
+- [New Visit] Short research Visit @Universidad de la Republica, Uruguay (November 2024).
+- [New Visit] Short research Visit @L3S Center, Hannover University, Germany (November 2024).
+- [Associate Editor] Since August 2024, Associate Editor of the Journal [Applied Soft Computing (ASOC)](https://www.sciencedirect.com/journal/applied-soft-computing).
+- [New Visit] Visiting Professor @Kyoto Institute of Technology, Japan (June - July & September & August 2024).
+- [New Visit] Research Visitor @Kyushu Institute of Technology, Japan (March 2024 -> present).
+- [New Event] During December 2024, we are organizing the [LACORO](https://lacoro.org) Summer School on Robotics in Chile. Come join us! 
+- [New Paper] on "[Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition](https://ieeexplore.ieee.org/document/10508478)" with Luis Cossio and Javier Ruiz-del-Solar, published at IEEE RA-L.
+- [[Postdoctoral Fondecyt Advisor]([https://www.anid.cl/concursos/concurso/?id=683](https://anid.cl/concursos/concurso-fondecyt-de-postdoctorado-2024/))] Since March 2024 I am Sponsoring researcher for the Postdoctoral Fondecyt project of Robert Guaman, who will be working on Visual servoing, digital twins and event-based vision in Construction
+- [New Paper] on "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" with Christopher Flores to be presented at ICICT 2024, London, UK.
+- [New Paper] on "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions" with Christopher Flores to be presented at ICAIIC 2024, Osaka, Japan.
+- [New Paper] on "A Color Event-Based Camera Emulator for Robot Vision" with Ignacio Bugueno-Cordova, Robert Guaman and Miguel Campusano, to be presented at RoboVis 2024, Roma, Italy.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## 2023
+- [New Paper] on "Event-based Gesture and Facial Expression Recognition: A Comparative Analysis" with Ignacio Bugueno-Cordova,
+ available at [IEEE Access](https://ieeexplore.ieee.org/document/10298106), 2023.
+- [October 2023] We are looking for a Postdoc / Research Engineer to work on Machine Learning applied to bio-engineering problems, particularly cancer-related. [More details here](https://drive.google.com/file/d/1vb8ZOSv45Jtagg__yAqISPzX3mxFWvkX/view)
+- [ICCV23 - LAXAI] Ignacio Bugueno will be presenting our work on "Event-based Facial Expression Recognition and Learning Framework", at [ICCV23 - LAXAI workshop]((https://www.latinxinai.org/iccv-2023)), Paris 2023.
+- [New Paper] on "Combining Regular Expressions and Supervised Algorithms for Clinical Text Classification" with Christopher Flores, accepted at [IDEAL](https://ideal2023.uevora.pt/general/), Portugal 2023
+- Alternate Director, [FONDEF IT23i0012 ANID Project] "Pedagogical management system for the mathematics classroom based on intelligent games and recommendations", Chile
+- Director (2023-2024) of [PAR Explora O'Higgins](https://www.explora.cl/ohiggins/), Science Dissemination program of the Ministry of Science & Technology, Chile
+- Director (2023) of [Science Festival O'Higgins](https://www.cienciapublica.cl/feci-festival-de-la-ciencia/), Science Festival; Outreach program of the Ministry of Science & Technology, Chile
+- [[New Book Chapter]](https://link.springer.com/referenceworkentry/10.1007/978-3-030-89123-7_234-1) "Smart Technologies in Agriculture". In: Zhang, Q. (eds) Encyclopedia of Smart Agriculture Technologies. Springer Cham.
+- 2020 - 2023, Director [Institute of Engineering Sciences](https://www.uoh.cl/instituto-de-ciencias-de-la-ingenieria/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
+- [[New Paper]](https://ieeexplore.ieee.org/document/10111319/) "An Automated Assessment of Early Math Abilities Based on Digital Games" at the 2023 11th International Conference on Information and Education Technology (ICIET 2023) Fujisawa, Japan
+- [[Invited Speaker]](https://sites.google.com/view/biobo-airobotics-summit/) at the Biobio IA Robotics Summit, January 2023, Concepcion, Chile.
+- [[New paper](https://www.sciencedirect.com/science/article/pii/S277237552200034X)], "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots", G Gil, D Casagrande, LP Cortés, R Verschae, _Smart Agricultural Technology 3_, 100069
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## 2022
+- [[EMBC'22](https://embc.embs.org/2022/)], New paper on "A Generic Semi-Supervised and Active Learning Framework for Biomedical Text Classification" [presented](https://embs.papercept.net/conferences/conferences/EMBC22/program/EMBC22_ContentListWeb_4.html#thep-25_09) at the International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC'22). Join work with Christopher Flores.
+- [IMPRESS, Feb 2022], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
+- [[Postdoctoral Fondecyt Advisor](https://www.anid.cl/concursos/concurso/?id=683)] Since Abril 2022 I am Sponsor of Postdoctoral Fondecyt project of Christopher Flores, who is working on active and semi-supervised learning.
+
+## 2021
+- [IMPRESS, December 2021], Research visit at ENS Paris-Saclay, France (Gabriele Facciolo) as part of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
+- [International Workshop on Innovative Robotics], Invited Speaker. Event organized by The University of Salento in collaboration with the Kyushu Institute of Technology, October 2021
+- [Webinar on Innovation and Technology applied to Fruit Growing and Horticulture], Invited Speaker. Event organized by Embassy of Chile in Japan, September 2021
+- [[ISICS 2022](https://www.isics-symposium.org/2022/organizing-committees)], I am part ot the Scientific Advisory Committee of the International Symposium on Intelligent Computing Systems - ISICS, Chile -- March 2022
+- [[First Japan-Chile Symposium on Field Robotics](https://sites.google.com/uoh.cl/fieldrobot2019)], Event sponsored by The Japan Foundation. Chile -- March 2021
+
+## 2020
+- [[FG 2020](https://fg2020.org/introduction-to-face-and-gesture-recognition-using-event-based-cameras/)] TUTORIAL: Introduction to face and gesture recognition using event-based cameras given at the 15th IEEE International Conference on Automatic Face and Gesture Recognition
+- [ICI UOH] Since September 2020 I am an Director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile.
+- [[IEEE RAS Education Committee](https://www.ieee-ras.org/about-ras/governance/member-activities-board/education-committee)] Since July 2020 I am a Co-Chair 
+ of the IEEE RAS Education Committee.
+- [[CEINE](http://www.ceine.cl/en/)] Since March 2020 I am an associate researcher of the Business Intelligence Center (CEINE), Universidad de Chile, Chile.
+- [IMPRESS], International Coordinator of the STIC AmSud collaboration project IMPRESS (Image Modeling and Process for Remote SenSing in agriculture). Join Project with Gabriele Facciolo (ENS Paris-Saclay, France), Javier Preciozzi (Universidad de la Republica, Uruguay).
+
+## 2019
+- [IEEE RAS Summer School on Deep Learning for Robot Vision](http://robotvision2019.amtc.cl), in Santiago Chile, December 2019. General Chair (together with J. Ruiz-del-Solar of Univ. de Chile)
+- [September 2019] [Inverview](https://www.bcn.cl/observatorio/asiapacifico/noticias/rodrigo-verschae-vinculo-academia-robotica) (in Spanish) at the Library of the Chilean Congress regarding the importance of the collaboration between Industry and Academy for the development of Robotics.
+- [July 2019] [Inverview](https://www.bcn.cl/observatorio/asiapacifico/noticias/rodrigo-verschae-simposio-robotica-chile-japon) (in Spanish) at the Library of the Chilean Congress regarding the First Japan-Chile Symposium on Field Robotics I am organizing.
+- [Since July, 2019] Member of the Academic Council of the Universidad de O'Higgins, Chile
+- [July 2019] Research Visit, [Computer Vision Laboratory](http://vision.kuee.kyoto-u.ac.jp/index.html), [Kyoto University](http://www.kyoto-u.ac.jp/en), Kyoto, Japan  
+- [June 2019] Visit, [Vehicles Robotics Lab](https://robotagri-lab.webs.upv.es/), [Universidad Politecnica de Valencia](https://www.upv.es/index-en.html), Spain
+- [April 2019] I was promoted to Associate Professor at the Universidad de O'Higgins, Chile
+* [PAR Explora O'Higgins CONICYT], From April 2019 I am director of the PAR Explora O'Higgins Project, CONICYT, for the promotion of Science in the O'Higgins Region, Chile. Two year project (renewable for two more years); Granted funding: 350.000 USD per year.
+* Visiting Fellow (Feb 2019), [Computer Vision Laboratory](http://vision.kuee.kyoto-u.ac.jp/index.html), [Kyoto University](http://www.kyoto-u.ac.jp/en), Kyoto, Japan  
+* Dec. 2018 - Jan 2019. I am doing a Research Visit, Awarded by a Santander Universidades grant, at the [Vehicles Robotics Lab](https://robotagri-lab.webs.upv.es/), [Universidad Politecnica de Valencia](https://www.upv.es/index-en.html), Spain
+
+## 2018
+* [[IEEE RAS Summer School](http://robotvision2019.amtc.cl)] I am co-organizing (**General Chair**) the IEEE RAS Summer School on Deep Learning for Robot Vision, Santiago & Rancagua, Chile, December, 2019 
+* [[Solar Energy](https://doi.org/10.1016/j.solener.2018.10.024)] New paper on Image-based Photovoltaic Energy Generation Prediction: Jinsong Zhang, Rodrigo Verschae, Shohei Nobuhara and Jean-Francois Lalonde, "Deep photovoltaic nowcasting", Solar Energy, Vol. 176, PP. 267-276, Dec 2018.
+* [[Chile-Japan Academic Forum](http://eventos.cmm.uchile.cl/chilejapanforum2018/wp-content/uploads/sites/61/2018/09/UTokyo_LatinForum@Nikko_20180917.pdf)] I will participate in the Chile-Japan Academic Forum, 25-29 Sept, 2018, Nikko, Japan. In the event, I am will present at the Workshop "Sensors, Robotics, Automation & ICT in Mining, AgroSciences & Natural Resources, Smart Cities".
+* [[CMM](http://www.cmm.uchile.cl/?page_id=1737)] Since August 2018 I am an associate researcher of the Center for Mathematical Modeling (CMM), Universidad de Chile, Chile.
+* [[SCI](http://www.mdpi.com/journal/sci/editors)] Since August 2018 I am in the Advisory Board of the MDIP SCI Journal.
+* [[ML Meetup](https://www.meetup.com/es-ES/Santiago-Machine-Learning-Meetup/events/252752560/)] I presented my work on "Sky image based solar energy prediction", at the Santiago Machine Learning Meetup, Santiago, Chile.
+* [New Affiliation] Since 2018 I am with the Institute of Engineering Sciences, Universidad de O'Higgins, Chile 
+
+## 2017
+* [MIRU 2017] I will presenting our work on "Daytime Sky Image Model and Prediction" at MIRU 2017, Hiroshima, Japan.
+* [Information, 2017] Since June 2017 I am part of the Editorial Board of the MDPI journal [Information](http://www.mdpi.com/journal/information/editors).
+* [OCEANS MTS/IEEE, 2017] I will be attending the [Oceans Conference](http://www.oceans17mtsieeeanchorage.org) in Anchorage, Alaska, to present our work on fish tracking.
+* [Energy7, 2017] I will be attending the Energy 7 symposium, in Manchester, UK, to present my work on coordinated energy management.
+* [IEEE PVSC, 2017] I will be attending the [IEEE PVSC](http://www.ieee-pvsc.org/PVSC44/) in WASHINGTON, D.C., USA, to present our work on image-based PV estimation and prediction.
+
+## 2016
+* [AVW, 2016] I will be presenting our work on real-time 3D fish detection and tracking at the ["Aqua Vision Workshop"](https://sites.google.com/a/vision.kuee.kyoto-u.ac.jp/avw2016/en), at Kyoto University, Japan.
+* [Energies, July 2016] Paper on ["Energy Management in Prosumer Communities: A Coordinated Approach"](http://www.mdpi.com/1996-1073/9/7/562/pdf) at Energies' (MDPI) special issue on [Multi-Disciplinary Perspectives on Energy and Sustainable Development](http://www.mdpi.com/journal/energies/special_issues/IESD_2015).
+* [MIRU 2016] I will presenting my work on "Real-time 3D fish detection and tracking" at [MIRU 2016, Japan](https://sites.google.com/site/miru2016hamamatsu/home).
+* [July 2016] I was awarded a Highly Skilled Foreign Professional visa (Japan).
+* [Co-editor of research topic] on [Human safety and comfort in human-robot shared workspaces: from sensing and perception to motion planning and control](http://journal.frontiersin.org/researchtopic/4421/human-safety-and-comfort-in-human-robot-shared-workspaces-from-sensing-and-perception-to-motion-plan) at [Frontiers in Robotics and AI](http://journal.frontiersin.org/journal/robotics-and-ai). Submissions open until September 2016.
+* [Invited Speaker, February 2016] Invited panelist at the "Future of the Electricity Utilities Project", Asian Stakeholder Meeting, Organized by the Royal Institute of International Affairs, Hong Kong, March 3-4th 2016.
+
+## 2015
+* [New paper, June 2015] paper on [Coordinated Energy Management for Inter-Community Imbalance Minimization](http://dx.doi.org/10.1016/j.renene.2015.07.039) now available at RENE (Renewable Energy journal, Elsevier; Impact factor 3.476). [PDF available here](http://vision.kuee.kyoto-u.ac.jp/japanese/happyou/pdf/Rodrigo_RENE_2015.pdf).
+* [ASN 2015] work on **Coordinated Energy Management** presented at the Singapore-Japan Joint Workshop on ASN ([Ambient Intelligence and Sensor Networks](http://www.ieice.org/ken/program/index.php?mode=program&tgs_regid=ee1b41540b98d3083a9345907a7698c5fc3ee434f947c17480cc77e206ab9790&tgid=IEICE-ASN&layout=&lang=eng)), in Singapore, December 2015.
+* [New paper, Nov. 2015] co-authored paper on [Object Detection: Current and Future Directions](http://dx.doi.org/10.3389/frobt.2015.00029) is now available at Frontiers in Robotics and AI.
+* [New paper, Nov. 2015] co-authored paper on [A Realistic Virtual Environment for Evaluating Face Analysis Systems under Dynamic Conditions Pattern Recognition] has been accepted for publication at PR (Pattern Recognition, Elsevier; Impact Factor 3.096).
+* [New paper, Nov. 2015] co-authored paper om [An enhanced representation of thermal faces for improving local appearance-based face recognition](http://www.tandfonline.com/doi/full/10.1080/10798587.2015.1110288) is available at IASC (Intelligent Automation and Soft Computing, Taylor & Francis).
+* [New position, April 2015], I am a program-specific **Assistant Professor** at the Graduate School of Informatics, Kyoto University
+* Since 2015, I am an Associate Editor of the Journal Frontiers in Robotics and AI ([specialty section on Vision Systems Theory, Tools and Applications](http://journal.frontiersin.org/journal/all/section/vision-systems-theory-tools-and-applications)).
+
+## 2014
+* [SmartGridComm, 2014] Paper on "A Distributed Hierarchical Architecture for Community-based Power Balancing" to be presented at the IEEE SmartGridComm'2014 conference. [PDF presentation](presentations/smartgridcomm2014_Rodrigo_Verschae.pdf)
+* [ECC, 2014] Paper on a "Distributed coordination framework for on-line scheduling and power demand balancing of household communities" presented at the European control conference, Strasbourg, France.
+
+## 2013
+* [New affiliation, 2013] I am with the [Matsuyama Lab](http://vision.kuee.kyoto-u.ac.jp/), working on distributed coordination and mode scheduling within the context of the [i-Energy](http://i-energy.jp/en_index.html) project. 
+* [Book chapter, 2013] The book chapter I co-authored (titled "Thermal Face Recognition in Unconstrained Environments using histograms of LBP Features") is now available as part of the Springer book [Local Binary Patterns: New Variants and Applications](http://www.springer.com/engineering/computational+intelligence+and+complexity/book/978-3-642-39288-7) (also at [Amazon](http://www.amazon.com/Local-Binary-Patterns-Applications-Computational/dp/3642392881)).
+* I presented my work on "Multiclass Weak Classifiers in Boosted-Cascade Based Object Detection" at the [ ICML workshop on Learning with Test-Time Budgets ](https://sites.google.com/site/budgetedlearning2013/#schedule)
+* [ICML 2013] I attended the International Conference on Machine Learning ([ICML'13](http://icml.cc/2013/))
+* [Invited talk, 2013]([info](http://www.scian.cl/portal/globals_file.php?CS=2988&ID=1368658662.7932)) at [SCIAN-lab](http://www.scian.cl/) ( Laboratory for Scientific Image Analysis) at Medical School of the University of Chile, Santiago, Chile 
+
+* * *
+
+# Current Staff, Postdocs & Project Engineers
+
+* [Jaime Varas], Agriculture Engineer
+* [Luis Cosio], Electrical Engineer
+* [Ignacio Bugueno], Electrical Engineer
+* [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
+* [Matias Pastene], Computer Engineer
+
+# Current Students
+
+* [Ariel Zuñiga], Master Student at Universidad de O'Higgins
+* [Nicolas Araya], Master Student at Universidad de O'Higgins
+* [Ariel Valenzuela], Electrical Engineer Student at Universidad de O'Higgins
+* [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
+
+# Alumni
+
+* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin)
+* [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
+* [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
+* [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
+* [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
+* [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
+* [Matias Pastene], Computer Engineer at Universidad O'Higgins
+* [Ignacio Vasquez], Electrical Engineer at Universidad O'Higgins
+* [Hernan Moreno], Electrical Engineer Student at Universidad O'Higgins
+* [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
+* [Felipe Gomez], Computer Engineer at Universidad O'Higgins
+* [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
+* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins
+* [Luis Miranda], Computer Engineer at Universidad O'Higgins
+* [Patricio Fernandez], Computer Engineer at Universidad O'Higgins
+
+  
+* * *
+
+# About
+
+I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018), I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
+
+My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
+  
+I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 2010), a M.Sc. in Applied Mathematics (Ecole Normale Superieure (ENS) de Cachan, France, 2006), an Electrical Engineering degree (Universidad de Chile, 2003), and a Bachelor in Computer Engineering degree (Universidad de Chile, 2002).   
+
+From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
+
+I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 47 (2025), I am an active researcher with over 60 publications in international conferences and journals. In 2025, he received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
+
+* * *
+
