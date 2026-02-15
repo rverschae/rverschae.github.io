@@ -1,3 +1,8 @@
+---
+title: "Face and gesture recognition using event-based cameras "
+author_profile: false
+---
+
 # Face and gesture recognition using event-based cameras 
 # [FG2026](https://fg2026.ieee-biometrics.org/) Tutorial, Kyoto, Japan
 
