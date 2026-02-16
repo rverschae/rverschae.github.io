@@ -2,9 +2,6 @@
 permalink: /
 title: "Rodrigo Verschae"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ## Affiliations
@@ -65,20 +62,20 @@ I have participated in international projects and developed algorithms for large
 
 # Alumni
 
-* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin)
+* [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin–Eau Claire)
 * [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
-* [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
-* [Ariel Valenzuela], Electrical Engineer at Universidad de O'Higgins
+* [Christopher Flores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
 * [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
 * [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
+* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins (Now at Garces Fruit)
+* [Ariel Valenzuela], Electrical Engineer at Universidad de O'Higgins
 * [Matias Pastene], Computer Engineer at Universidad O'Higgins
 * [Ignacio Vasquez], Electrical Engineer at Universidad O'Higgins
 * [Hernan Moreno], Electrical Engineer at Universidad O'Higgins
 * [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Felipe Gomez], Computer Engineer at Universidad O'Higgins
 * [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
-* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins (Now at Garces Fruit)
 * [Luis Miranda], Computer Engineer at Universidad O'Higgins
 * [Patricio Fernandez], Computer Engineer at Universidad O'Higgins
 
