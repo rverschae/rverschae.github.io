@@ -17,6 +17,11 @@ redirect_from:
 + Email: rodrigo [at] verschae [dot] org  
 + Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
 
+# Publications 
+
+See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information. 
+Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
+
 # Main Research Lines
 ## [Smart Agriculture](https://rodrigo.verschae.org/smartagro)
 - Fruit Detection, Tracking, Counting & Monitoring
@@ -36,10 +41,11 @@ redirect_from:
 # News
 ## 2026
 - [New Affiliation] R Verschae, from March 2026 I am joining Universidad Tecnica Federico Santa Maria (UTFSM), Chile
-- [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), **Inclusion Chair**, August 2026, Kitakyushu, Japan
+- [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), Inclusion Chair, August 2026, Kitakyushu, Japan
 - [New Tutorial at FG2026], Kyoto, Japan, on "[Face and gesture recognition using event-based cameras](https://rodrigo.verschae.org//fg2026/Event_FG_Tutorial)", joinly prepared by Rodrigo Verschae, Daniel Acevedo, Nicolas Mastropasqua, Ignacio Bugueno-Cordova.
 - [New Paper] R Verschae, I. Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, Volume 671, 28 March 2026, 132641
 - [New Paper] Ariel Zuñiga-Santana, G Facciolo, S Nobuhara, R Verschae, "A Multi-View Photometric Stereo Pipeline for Specular 3D Fruit Reconstruction", WACV 2026 Workshop HARVESTVision (accepted)
+
 ## 2025
 - [New Paper] Singla, R., Verschae, R. & Parthasarathy, H. "Large deviation-based noise mitigation in coupled quantum robotic systems". Quantum Inf Process 24, 358 (2025). https://doi.org/10.1007/s11128-025-04982-5
 - [New Award] on Technological and Scientific Development, from the Institute of Engineers of Chile, for our work on Precision Agriculture.
@@ -170,12 +176,13 @@ redirect_from:
 * [Ignacio Bugueno], Electrical Engineer
 * [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
 * [Matias Pastene], Computer Engineer
+* [Ariel Valenzuela], Electrical Engineer
 
 # Current Students
 
 * [Ariel Zuñiga], Master Student at Universidad de O'Higgins
 * [Nicolas Araya], Master Student at Universidad de O'Higgins
-* [Ariel Valenzuela], Electrical Engineer Student at Universidad de O'Higgins
+* [Tomas Perez], Electrical  Engineer Student at Universidad de O'Higgins
 * [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
 
 # Alumni
@@ -183,6 +190,7 @@ redirect_from:
 * [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin)
 * [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
 * [Christopher FLores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
+* [Ariel Valenzuela], Electrical Engineer at Universidad de O'Higgins
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
 * [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
 * [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
@@ -192,7 +200,7 @@ redirect_from:
 * [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Felipe Gomez], Computer Engineer at Universidad O'Higgins
 * [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
-* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins
+* [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins (Now at Garces Fruit)
 * [Luis Miranda], Computer Engineer at Universidad O'Higgins
 * [Patricio Fernandez], Computer Engineer at Universidad O'Higgins
 
@@ -209,6 +217,8 @@ I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 20
 
 From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
 
-I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 47 (2025), I am an active researcher with over 60 publications in international conferences and journals. In 2025, he received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
+I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 48 (2026), I am an active researcher with over 75 publications in international conferences and journals. 
+
+In 2025, I received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
 
 * * *
