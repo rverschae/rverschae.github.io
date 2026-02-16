@@ -28,7 +28,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 # About Me
 
-I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018), I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
+From March 2026, I am an professor at the Department of Informatics, Universidad Tecnica Federico Santa Maria, Chile. Before that (2018-2026), I was associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018) I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
 
 My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
   
@@ -36,15 +36,14 @@ I received a Doctoral degree in Electrical Engineering (Universidad de Chile, 20
 
 From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. I have been a Postdoctoral Researcher (principal researcher of the FONDECYT Grant N. 3120218) at the [Advanced Mining Technology Center (AMTC)](http://www.amtc.cl), Universidad de Chile, (2011-2013), a visiting foreign researcher (7 months, BecasChile Grant) at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Fukuoka, Japan (2011), a research fellow at the Network Design Research Center,  at the [Kyushu Institute of Technology](http://www.kyutech.ac.jp/), Japan (2009-2010), an associated researcher at the [Fraunhofer IPK-Institute](http://www.ipk.fraunhofer.de/en/homepage/), Berlin, Germany (2004-2005), and a research collaborator of the [Center for Web Research](http://www.cwr.cl/) at Universidad de Chile (2004). 
 
-I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 48 (2026), I am an active researcher with over 75 publications in international conferences and journals. 
+I have participated in international projects and developed algorithms for large-scale industrial systems, and currently I am an active researcher with over 75 publications in international conferences and journals. 
 
-## Accomplishments
+# Accomplishments
 
-- In 2025, I received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
-
-- In 2025, I was Elevation to the grade of IEEE Senior member
-
-- In 2024, I was Nominated as Associate Editor of the Journal Applied Soft Computing
+- In 2025, I received the **2025 Technological and Scientific Development Award** from the Institute of Engineers of Chile for my work on Precision Agriculture.
+- In 2025, I was Elevated to the grade of IEEE Senior member
+- In 2024, I was Nominated as Associate Editor in the Journal Applied Soft Computing
+- From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile
 
 * * *
 
@@ -75,7 +74,7 @@ I have participated in international projects and developed algorithms for large
 * [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
 * [Matias Pastene], Computer Engineer at Universidad O'Higgins
 * [Ignacio Vasquez], Electrical Engineer at Universidad O'Higgins
-* [Hernan Moreno], Electrical Engineer Student at Universidad O'Higgins
+* [Hernan Moreno], Electrical Engineer at Universidad O'Higgins
 * [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Felipe Gomez], Computer Engineer at Universidad O'Higgins
 * [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
