@@ -24,7 +24,7 @@ main:
     url: /year-archive/    
 
   - title: "News"
-    url: /news/    
+    url: /news.md
 
        
 #  - title: "Blog Posts"
