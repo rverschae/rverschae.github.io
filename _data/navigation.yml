@@ -23,8 +23,8 @@ main:
   - title: "Opportunities"
     url: /year-archive/    
 
-#  - title: "News"
-#    url: /news
+  - title: "News"
+    url: /news/
 
        
 #  - title: "Blog Posts"
