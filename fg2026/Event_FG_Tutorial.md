@@ -1,5 +1,5 @@
 ---
-title: "Face and gesture recognition using event-based cameras "
+title: "Tutorial: Face and gesture recognition using event-based cameras"
 author_profile: false
 ---
 
