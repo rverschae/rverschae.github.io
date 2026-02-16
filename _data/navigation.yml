@@ -11,7 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks&Tutorias"
+  - title: "Talks&Tutorials"
     url: /talks/    
 
 #  - title: "Teaching"
@@ -23,8 +23,8 @@ main:
   - title: "Opportunities"
     url: /year-archive/    
 
-  - title: "News"
-    url: news
+#  - title: "News"
+#    url: /news
 
        
 #  - title: "Blog Posts"
