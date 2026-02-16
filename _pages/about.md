@@ -10,8 +10,7 @@ redirect_from:
 ## Affiliations
 
 + Associate Professor, Institute of Engineering Sciences, [Universidad de O'Higgins](http://www.uoh.cl), Chile 
-+ Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Principal Researcher, [AI & Robotics Group](https://sites.google.com/uoh.cl/uoh-ai-robotics-group/home), [Universidad de O'Higgins](http://www.uoh.cl), Chile
++ Director, [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/)
 
 ## Contact 
 
@@ -27,7 +26,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 * * *
 
-# About
+# About Me
 
 I am an associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018), I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
 
@@ -39,8 +38,13 @@ From 2020 to 2023, I was director of the Institute of Engineering Sciences, Univ
 
 I have participated in international projects and developed algorithms for large-scale industrial systems, and at age 48 (2026), I am an active researcher with over 75 publications in international conferences and journals. 
 
-In 2025, I received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
+## Accomplishments
 
+- In 2025, I received the **Technological and Scientific Development Award** from the Institute of Engineers of Chile for his work on Precision Agriculture.
+
+- In 2025, I was Elevation to the grade of IEEE Senior member
+
+- In 2024, I was Nominated as Associate Editor of the Journal Applied Soft Computing
 
 * * *
 

@@ -1,9 +1,8 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Main Research Lines"
 ---
 
-# Main Research Lines
 ## [Smart Agriculture](https://rodrigo.verschae.org/smartagro)
 - Fruit Detection, Tracking, Counting & Monitoring
 - Wireless Sensor Networks, Telemetry & Modelling
