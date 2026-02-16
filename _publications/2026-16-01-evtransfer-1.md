@@ -4,11 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-16-01-evtransfer-1
 excerpt: 'evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition'
-date: 2009-10-01
+date: 2026-16-01
 venue: 'Neurocomputing'
 slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X'
-bibtexurl: ''
+bibtexurl: '/files/bibtex/verschae2026evTransfer.bib'
 citation: 'R Verschae, I. Bugueno-Cordova, “evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition”, Neurocomputing, Volume 671, 28 March 2026, 132641'
 ---
 
