@@ -17,16 +17,6 @@ redirect_from:
 + Email: rodrigo [at] verschae [dot] org  
 + Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
 
-# Publications 
-
-See my [Google Scholar profile](http://scholar.google.com/citations?user=Fv1lZNkAAAAJ&hl=en) for updated information. 
-Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4469-2012) and [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=8436903800).
-
-# Main Research Projects 
-+ Director, [FOVI Project "Artificial Intelligence and Robotics for Remote and Proximal Sensing in Precision Agriculture"](https://rodrigo.verschae.org/fovi2025/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director, [FIC Project "Technologies for risk management in cherry production"](https://cerezas.uoh.cl/), [Universidad de O'Higgins](http://www.uoh.cl), Chile
-+ Director(alternate), Technological Research Fondef IDeA 2023 - IT23I0012 “Pedagogical management system for the mathematics classroom based on intelligent games and recommendations”, [Universidad de O'Higgins](http://www.uoh.cl), Chile
-
 # Main Research Lines
 ## [Smart Agriculture](https://rodrigo.verschae.org/smartagro)
 - Fruit Detection, Tracking, Counting & Monitoring
