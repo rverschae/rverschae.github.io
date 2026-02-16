@@ -18,8 +18,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -30,7 +30,6 @@ main:
   - title: "Opportunities"
     url: /year-archive/    
 
-       
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
