@@ -28,7 +28,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 # About Me
 
-From March 2026, I am an professor at the Department of Informatics, Universidad Tecnica Federico Santa Maria, Chile. Before that (2018-2026), I was associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018) I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
+From March 2026, I am with the Department of Informatics, Universidad Tecnica Federico Santa Maria, Chile. Before that (2018-2026), I was associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018) I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
 
 My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
   
