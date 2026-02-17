@@ -2,7 +2,7 @@
 title: "evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-16-01-evtransfer-1
+permalink: /publication/2026-01-16-evtransfer-1
 excerpt: 'evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition'
 date: 2026-01-16
 venue: 'Neurocomputing'
