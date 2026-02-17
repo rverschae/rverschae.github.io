@@ -1,6 +1,7 @@
 ---
 title: "Multi-objective optimization for parameter selection and characterization of optical flow methods"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-09-01-Multi-objective-optimization-for-parameter-selection-and-characterization-of-optical-flow-methods
 date: 2016-09-01
 venue: 'Applied soft computing'

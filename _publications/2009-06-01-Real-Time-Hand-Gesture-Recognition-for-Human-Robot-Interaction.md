@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Hand Gesture Recognition for Human Robot Interaction"
 collection: publications
+category: conferences
 permalink: /publication/2009-06-01-Real-Time-Hand-Gesture-Recognition-for-Human-Robot-Interaction
 date: 2009-06-01
 venue: 'In the proceedings of RoboCup 2009: Robot Soccer World Cup XIII'

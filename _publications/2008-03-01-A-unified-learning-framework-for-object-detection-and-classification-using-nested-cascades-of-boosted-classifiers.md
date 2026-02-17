@@ -1,6 +1,7 @@
 ---
 title: "A unified learning framework for object detection and classification using nested cascades of boosted classifiers"
 collection: publications
+category: manuscripts
 permalink: /publication/2008-03-01-A-unified-learning-framework-for-object-detection-and-classification-using-nested-cascades-of-boosted-classifiers
 date: 2008-03-01
 venue: 'Machine vision and applications'

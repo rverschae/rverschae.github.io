@@ -1,6 +1,7 @@
 ---
 title: "Object detection: current and future directions"
 collection: publications
+category: manuscripts
 permalink: /publication/2015-01-01-Object-detection-current-and-future-directions
 date: 2015-01-01
 venue: 'Frontiers in Robotics and AI'

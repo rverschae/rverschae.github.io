@@ -1,6 +1,7 @@
 ---
 title: "The IEEE Robotics and Automation Society Congratulates Our Elevated Senior Members of June 2025"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-12-01-The-IEEE-Robotics-and-Automation-Society-Congratulates-Our-Elevated-Senior-Members-of-June-2025
 date: 2025-12-01
 venue: 'IEEE Robotics &amp; Automation Magazine'

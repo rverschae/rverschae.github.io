@@ -1,6 +1,7 @@
 ---
 title: "A distributed hierarchical architecture for community-based power balancing"
 collection: publications
+category: conferences
 permalink: /publication/2014-11-01-A-distributed-hierarchical-architecture-for-community-based-power-balancing
 date: 2014-11-01
 venue: 'In the proceedings of 2014 IEEE International Conference on Smart Grid Communications (SmartGridComm)'

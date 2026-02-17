@@ -1,6 +1,7 @@
 ---
 title: "Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Cherry-CO-Dataset-a-dataset-for-cherry-detection-segmentation-and-maturity-recognition
 date: 2024-01-01
 venue: 'IEEE robotics and automation letters'

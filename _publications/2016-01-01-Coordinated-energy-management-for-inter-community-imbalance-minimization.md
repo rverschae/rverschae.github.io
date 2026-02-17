@@ -1,6 +1,7 @@
 ---
 title: "Coordinated energy management for inter-community imbalance minimization"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-Coordinated-energy-management-for-inter-community-imbalance-minimization
 date: 2016-01-01
 venue: 'Renewable Energy'

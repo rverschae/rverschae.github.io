@@ -1,6 +1,7 @@
 ---
 title: "evTransFER: A transfer learning framework for event-based facial expression recognition"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-03-01-evTransFER-A-transfer-learning-framework-for-event-based-facial-expression-recognition
 date: 2026-03-01
 venue: 'Neurocomputing'

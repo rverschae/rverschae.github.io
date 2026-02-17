@@ -1,6 +1,7 @@
 ---
 title: "Large deviation-based noise mitigation in coupled quantum robotic systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-11-01-Large-deviation-based-noise-mitigation-in-coupled-quantum-robotic-systems
 date: 2025-11-01
 venue: 'Quantum Information Processing'

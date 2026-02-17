@@ -1,6 +1,7 @@
 ---
 title: "On the image content of a web segment: Chile as a case study"
 collection: publications
+category: manuscripts
 permalink: /publication/2004-10-01-On-the-image-content-of-a-web-segment-Chile-as-a-case-study
 date: 2004-10-01
 venue: 'Journal of Web Engineering'

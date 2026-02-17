@@ -1,6 +1,7 @@
 ---
 title: "User Modeling for Improving QoS Using Partial User-Supplied Information"
 collection: publications
+category: conferences
 permalink: /publication/2009-11-01-User-Modeling-for-Improving-QoS-Using-Partial-User-Supplied-Information
 date: 2009-11-01
 venue: 'In the proceedings of 2009 International Conference on Intelligent Networking and Collaborative Systems'

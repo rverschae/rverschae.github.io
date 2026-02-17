@@ -1,6 +1,7 @@
 ---
 title: "A Hybrid Method for Clinical Text Classification Based on Confident Predictions and Regular Expressions"
 collection: publications
+category: conferences
 permalink: /publication/2024-02-01-A-Hybrid-Method-for-Clinical-Text-Classification-Based-on-Confident-Predictions-and-Regular-Expressions
 date: 2024-02-01
 venue: 'In the proceedings of 2024 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)'

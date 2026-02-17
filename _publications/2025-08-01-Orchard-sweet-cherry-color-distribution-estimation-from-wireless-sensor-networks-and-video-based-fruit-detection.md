@@ -1,6 +1,7 @@
 ---
 title: "Orchard sweet cherry color distribution estimation from wireless sensor networks and video-based fruit detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-08-01-Orchard-sweet-cherry-color-distribution-estimation-from-wireless-sensor-networks-and-video-based-fruit-detection
 date: 2025-08-01
 venue: 'Computers and electronics in agriculture'

@@ -1,6 +1,7 @@
 ---
 title: "Human Detection and Identification by Robots Using Thermal and Visual Information in Domestic Environments"
 collection: publications
+category: manuscripts
 permalink: /publication/2011-07-01-Human-Detection-and-Identification-by-Robots-Using-Thermal-and-Visual-Information-in-Domestic-Environments
 date: 2011-07-01
 venue: 'Journal of Intelligent and Robotic Systems'

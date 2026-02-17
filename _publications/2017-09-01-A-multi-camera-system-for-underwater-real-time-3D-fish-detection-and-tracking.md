@@ -1,6 +1,7 @@
 ---
 title: "A multi-camera system for underwater real-time 3D fish detection and tracking"
 collection: publications
+category: conferences
 permalink: /publication/2017-09-01-A-multi-camera-system-for-underwater-real-time-3D-fish-detection-and-tracking
 date: 2017-09-01
 venue: 'In the proceedings of OCEANS 2017 - Anchorage'

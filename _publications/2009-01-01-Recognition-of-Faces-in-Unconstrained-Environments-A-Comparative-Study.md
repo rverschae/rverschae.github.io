@@ -1,6 +1,7 @@
 ---
 title: "Recognition of Faces in Unconstrained Environments: A Comparative Study"
 collection: publications
+category: manuscripts
 permalink: /publication/2009-01-01-Recognition-of-Faces-in-Unconstrained-Environments-A-Comparative-Study
 date: 2009-01-01
 venue: 'EURASIP journal on advances in signal processing'

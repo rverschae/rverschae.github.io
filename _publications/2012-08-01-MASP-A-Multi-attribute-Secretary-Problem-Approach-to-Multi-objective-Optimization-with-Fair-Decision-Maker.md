@@ -1,6 +1,7 @@
 ---
 title: "MASP: A Multi-attribute Secretary Problem Approach to Multi-objective Optimization with Fair Decision Maker"
 collection: publications
+category: conferences
 permalink: /publication/2012-08-01-MASP-A-Multi-attribute-Secretary-Problem-Approach-to-Multi-objective-Optimization-with-Fair-Decision-Maker
 date: 2012-08-01
 venue: 'In the proceedings of 2012 Sixth International Conference on Genetic and Evolutionary Computing'

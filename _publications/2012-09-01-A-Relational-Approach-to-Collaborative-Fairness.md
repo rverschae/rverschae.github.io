@@ -1,6 +1,7 @@
 ---
 title: "A Relational Approach to Collaborative Fairness"
 collection: publications
+category: conferences
 permalink: /publication/2012-09-01-A-Relational-Approach-to-Collaborative-Fairness
 date: 2012-09-01
 venue: 'In the proceedings of 2012 Fourth International Conference on Intelligent Networking and Collaborative Systems'

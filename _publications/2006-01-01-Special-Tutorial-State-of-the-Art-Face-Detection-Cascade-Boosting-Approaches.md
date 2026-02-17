@@ -1,6 +1,7 @@
 ---
 title: "Special Tutorial — State of the Art Face Detection: Cascade Boosting Approaches"
 collection: publications
+category: conferences
 permalink: /publication/2006-01-01-Special-Tutorial-State-of-the-Art-Face-Detection-Cascade-Boosting-Approaches
 date: 2006-01-01
 venue: 'In the proceedings of Applications of Soft Computing'

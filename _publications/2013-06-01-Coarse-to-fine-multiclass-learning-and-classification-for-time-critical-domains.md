@@ -1,6 +1,7 @@
 ---
 title: "Coarse-to-fine multiclass learning and classification for time-critical domains"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-06-01-Coarse-to-fine-multiclass-learning-and-classification-for-time-critical-domains
 date: 2013-06-01
 venue: 'Pattern recognition letters'

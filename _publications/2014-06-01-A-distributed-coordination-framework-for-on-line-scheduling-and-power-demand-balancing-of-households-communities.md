@@ -1,6 +1,7 @@
 ---
 title: "A distributed coordination framework for on-line scheduling and power demand balancing of households communities"
 collection: publications
+category: conferences
 permalink: /publication/2014-06-01-A-distributed-coordination-framework-for-on-line-scheduling-and-power-demand-balancing-of-households-communities
 date: 2014-06-01
 venue: 'In the proceedings of 2014 European Control Conference (ECC)'

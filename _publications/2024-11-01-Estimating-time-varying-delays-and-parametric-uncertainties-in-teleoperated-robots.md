@@ -1,6 +1,7 @@
 ---
 title: "Estimating time-varying delays and parametric uncertainties in teleoperated robots"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-11-01-Estimating-time-varying-delays-and-parametric-uncertainties-in-teleoperated-robots
 date: 2024-11-01
 venue: 'Nonlinear dynamics'

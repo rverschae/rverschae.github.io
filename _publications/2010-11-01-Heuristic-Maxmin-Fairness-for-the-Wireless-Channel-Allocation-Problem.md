@@ -1,6 +1,7 @@
 ---
 title: "Heuristic Maxmin Fairness for the Wireless Channel Allocation Problem"
 collection: publications
+category: conferences
 permalink: /publication/2010-11-01-Heuristic-Maxmin-Fairness-for-the-Wireless-Channel-Allocation-Problem
 date: 2010-11-01
 venue: 'In the proceedings of 2010 International Conference on Broadband, Wireless Computing, Communication and Applications'

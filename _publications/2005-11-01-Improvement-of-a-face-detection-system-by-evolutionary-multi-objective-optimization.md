@@ -1,6 +1,7 @@
 ---
 title: "Improvement of a face detection system by evolutionary multi-objective optimization"
 collection: publications
+category: conferences
 permalink: /publication/2005-11-01-Improvement-of-a-face-detection-system-by-evolutionary-multi-objective-optimization
 date: 2005-11-01
 venue: 'In the proceedings of Fifth International Conference on Hybrid Intelligent Systems (HIS&apos;05)'

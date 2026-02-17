@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Hand Gesture Detection and Recognition Using Boosted Classifiers and Active Learning"
 collection: publications
+category: conferences
 permalink: /publication/2007-12-01-Real-Time-Hand-Gesture-Detection-and-Recognition-Using-Boosted-Classifiers-and-Active-Learning
 date: 2007-12-01
 venue: 'In the proceedings of Advances in Image and Video Technology'

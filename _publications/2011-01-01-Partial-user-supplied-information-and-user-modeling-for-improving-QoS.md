@@ -1,6 +1,7 @@
 ---
 title: "Partial user-supplied information and user modeling for improving QoS"
 collection: publications
+category: manuscripts
 permalink: /publication/2011-01-01-Partial-user-supplied-information-and-user-modeling-for-improving-QoS
 date: 2011-01-01
 venue: 'Simulation Modelling Practice and Theory'

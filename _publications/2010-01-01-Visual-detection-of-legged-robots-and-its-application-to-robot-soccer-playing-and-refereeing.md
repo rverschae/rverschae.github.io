@@ -1,6 +1,7 @@
 ---
 title: "Visual detection of legged robots and its application to robot soccer playing and refereeing"
 collection: publications
+category: manuscripts
 permalink: /publication/2010-01-01-Visual-detection-of-legged-robots-and-its-application-to-robot-soccer-playing-and-refereeing
 date: 2010-01-01
 venue: 'Journal of Humanoid Robotics'

@@ -1,6 +1,7 @@
 ---
 title: "A Hybrid Face Detector based on an Asymmetrical Adaboost Cascade Detector and a Wavelet-Bayesian- Detector"
 collection: publications
+category: conferences
 permalink: /publication/2003-06-01-A-Hybrid-Face-Detector-based-on-an-Asymmetrical-Adaboost-Cascade-Detector-and-a-Wavelet-Bayesian-Detector
 date: 2003-06-01
 venue: 'In the proceedings of Computational Methods in Neural Modeling'

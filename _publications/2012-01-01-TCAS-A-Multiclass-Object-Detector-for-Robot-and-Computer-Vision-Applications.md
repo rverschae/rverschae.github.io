@@ -1,6 +1,7 @@
 ---
 title: "TCAS: A Multiclass Object Detector for Robot and Computer Vision Applications"
 collection: publications
+category: conferences
 permalink: /publication/2012-01-01-TCAS-A-Multiclass-Object-Detector-for-Robot-and-Computer-Vision-Applications
 date: 2012-01-01
 venue: 'In the proceedings of Lecture Notes in Computer Science'

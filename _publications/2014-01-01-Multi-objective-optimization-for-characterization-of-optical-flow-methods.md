@@ -1,6 +1,7 @@
 ---
 title: "Multi-objective optimization for characterization of optical flow methods"
 collection: publications
+category: manuscripts
 permalink: /publication/2014-01-01-Multi-objective-optimization-for-characterization-of-optical-flow-methods
 date: 2014-01-01
 venue: 'International Conference on Computer Vision Theory and Applications (VISAPP 2014)'

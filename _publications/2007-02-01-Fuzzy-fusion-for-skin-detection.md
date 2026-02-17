@@ -1,6 +1,7 @@
 ---
 title: "Fuzzy fusion for skin detection"
 collection: publications
+category: manuscripts
 permalink: /publication/2007-02-01-Fuzzy-fusion-for-skin-detection
 date: 2007-02-01
 venue: 'Fuzzy Sets and Systems. An International Journal in Information Science and Engineering'

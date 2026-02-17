@@ -1,6 +1,7 @@
 ---
 title: "Bender: a general-purpose social robot with human-robot interaction capabilities"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-01-01-Bender-a-general-purpose-social-robot-with-human-robot-interaction-capabilities
 date: 2013-01-01
 venue: 'Journal of Human'

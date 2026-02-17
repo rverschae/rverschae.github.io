@@ -1,6 +1,7 @@
 ---
 title: "A deep physical model for solar irradiance forecasting with fisheye images"
 collection: publications
+category: conferences
 permalink: /publication/2020-06-01-A-deep-physical-model-for-solar-irradiance-forecasting-with-fisheye-images
 date: 2020-06-01
 venue: 'In the proceedings of 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)'

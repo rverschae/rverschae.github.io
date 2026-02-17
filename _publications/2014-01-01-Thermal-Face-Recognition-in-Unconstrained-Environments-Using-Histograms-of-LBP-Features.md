@@ -1,6 +1,7 @@
 ---
 title: "Thermal Face Recognition in Unconstrained Environments Using Histograms of LBP Features"
 collection: publications
+category: conferences
 permalink: /publication/2014-01-01-Thermal-Face-Recognition-in-Unconstrained-Environments-Using-Histograms-of-LBP-Features
 date: 2014-01-01
 venue: 'In the proceedings of Local Binary Patterns: New Variants and Applications'

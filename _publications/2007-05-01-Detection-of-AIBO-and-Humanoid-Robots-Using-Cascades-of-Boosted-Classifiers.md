@@ -1,6 +1,7 @@
 ---
 title: "Detection of AIBO and Humanoid Robots Using Cascades of Boosted Classifiers"
 collection: publications
+category: conferences
 permalink: /publication/2007-05-01-Detection-of-AIBO-and-Humanoid-Robots-Using-Cascades-of-Boosted-Classifiers
 date: 2007-05-01
 venue: 'In the proceedings of RoboCup 2007: Robot Soccer World Cup XI'

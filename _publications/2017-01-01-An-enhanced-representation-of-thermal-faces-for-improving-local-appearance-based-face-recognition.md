@@ -1,6 +1,7 @@
 ---
 title: "An enhanced representation of thermal faces for improving local appearance-based face recognition"
 collection: publications
+category: manuscripts
 permalink: /publication/2017-01-01-An-enhanced-representation-of-thermal-faces-for-improving-local-appearance-based-face-recognition
 date: 2017-01-01
 venue: 'Intelligent Automation &amp; Soft Computing'

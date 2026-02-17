@@ -1,6 +1,7 @@
 ---
 title: "Skin detection using neighborhood information"
 collection: publications
+category: conferences
 permalink: /publication/2004-05-01-Skin-detection-using-neighborhood-information
 date: 2004-05-01
 venue: 'In the proceedings of Sixth IEEE International Conference on Automatic Face and Gesture Recognition, 2004. Proceedings.'

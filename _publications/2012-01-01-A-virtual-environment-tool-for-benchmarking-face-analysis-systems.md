@@ -1,6 +1,7 @@
 ---
 title: "A virtual environment tool for benchmarking face analysis systems"
 collection: publications
+category: conferences
 permalink: /publication/2012-01-01-A-virtual-environment-tool-for-benchmarking-face-analysis-systems
 date: 2012-01-01
 venue: 'In the proceedings of Computer Vision – ECCV 2012. Workshops and Demonstrations'

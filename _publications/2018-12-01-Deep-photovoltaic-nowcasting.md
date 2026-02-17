@@ -1,6 +1,7 @@
 ---
 title: "Deep photovoltaic nowcasting"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-12-01-Deep-photovoltaic-nowcasting
 date: 2018-12-01
 venue: 'Solar Energy'

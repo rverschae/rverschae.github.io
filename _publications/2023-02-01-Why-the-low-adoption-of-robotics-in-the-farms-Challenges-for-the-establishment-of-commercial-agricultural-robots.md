@@ -1,6 +1,7 @@
 ---
 title: "Why the low adoption of robotics in the farms? Challenges for the establishment of commercial agricultural robots"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-02-01-Why-the-low-adoption-of-robotics-in-the-farms-Challenges-for-the-establishment-of-commercial-agricultural-robots
 date: 2023-02-01
 venue: 'Smart Agricultural Technology'

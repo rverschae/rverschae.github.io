@@ -1,6 +1,7 @@
 ---
 title: "Characterizing objectionable image content (pornography and nude images) of specific web segments: Chile as a case study"
 collection: publications
+category: conferences
 permalink: /publication/2005-10-01-Characterizing-objectionable-image-content-pornography-and-nude-images-of-specific-web-segments-Chile-as-a-case-study
 date: 2005-10-01
 venue: 'In the proceedings of Third Latin American Web Congress (LA-WEB&apos;2005)'

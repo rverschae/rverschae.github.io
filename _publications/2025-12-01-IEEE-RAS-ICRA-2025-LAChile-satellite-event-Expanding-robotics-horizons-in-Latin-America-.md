@@ -1,6 +1,7 @@
 ---
 title: "IEEE RAS ICRA 2025 LA@Chile satellite event: Expanding robotics horizons in Latin America [education]"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-12-01-IEEE-RAS-ICRA-2025-LAChile-satellite-event-Expanding-robotics-horizons-in-Latin-America-
 date: 2025-12-01
 venue: 'IEEE Robotics &amp; Automation Magazine'

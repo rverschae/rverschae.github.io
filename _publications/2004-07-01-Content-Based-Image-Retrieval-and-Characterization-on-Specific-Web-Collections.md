@@ -1,6 +1,7 @@
 ---
 title: "Content-Based Image Retrieval and Characterization on Specific Web Collections"
 collection: publications
+category: conferences
 permalink: /publication/2004-07-01-Content-Based-Image-Retrieval-and-Characterization-on-Specific-Web-Collections
 date: 2004-07-01
 venue: 'In the proceedings of Image and Video Retrieval'

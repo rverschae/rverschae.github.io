@@ -1,6 +1,7 @@
 ---
 title: "Person following by mobile robots: analysis of visual and range tracking methods and technologies"
 collection: publications
+category: manuscripts
 permalink: /publication/2013-01-01-Person-following-by-mobile-robots-analysis-of-visual-and-range-tracking-methods-and-technologies
 date: 2013-01-01
 venue: 'RoboCup 2013: Robot'

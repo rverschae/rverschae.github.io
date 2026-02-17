@@ -1,6 +1,7 @@
 ---
 title: "A comparative study of thermal face recognition methods in unconstrained environments"
 collection: publications
+category: manuscripts
 permalink: /publication/2012-01-01-A-comparative-study-of-thermal-face-recognition-methods-in-unconstrained-environments
 date: 2012-01-01
 venue: 'Pattern recognition'

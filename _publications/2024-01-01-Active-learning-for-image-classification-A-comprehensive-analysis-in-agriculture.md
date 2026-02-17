@@ -1,6 +1,7 @@
 ---
 title: "Active learning for image classification: A comprehensive analysis in agriculture"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Active-learning-for-image-classification-A-comprehensive-analysis-in-agriculture
 date: 2024-01-01
 venue: 'In the proceedings of Lecture Notes in Networks and Systems'

@@ -1,6 +1,7 @@
 ---
 title: "On the image content of the Chilean Web"
 collection: publications
+category: conferences
 permalink: /publication/2003-01-01-On-the-image-content-of-the-Chilean-Web
 date: 2003-01-01
 venue: 'In the proceedings of Proceedings of the IEEE/LEOS 3rd International Conference on Numerical Simulation of Semiconductor Optoelectronic Devices (IEEE Cat. No.03EX726)'

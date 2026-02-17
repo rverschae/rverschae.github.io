@@ -1,6 +1,7 @@
 ---
 title: "Event-based optical flow: Method categorisation and review of techniques that leverage deep learning"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-06-01-Event-based-optical-flow-Method-categorisation-and-review-of-techniques-that-leverage-deep-learning
 date: 2025-06-01
 venue: 'Neurocomputing'

@@ -1,6 +1,7 @@
 ---
 title: "Energy Management in Prosumer Communities: A Coordinated Approach"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-07-01-Energy-Management-in-Prosumer-Communities-A-Coordinated-Approach
 date: 2016-07-01
 venue: 'Energies'

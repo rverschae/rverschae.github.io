@@ -1,6 +1,7 @@
 ---
 title: "Dynamic gesture recognition for human robot interaction"
 collection: publications
+category: conferences
 permalink: /publication/2009-10-01-Dynamic-gesture-recognition-for-human-robot-interaction
 date: 2009-10-01
 venue: 'In the proceedings of 2009 6th Latin American Robotics Symposium (LARS 2009)'

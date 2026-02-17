@@ -1,6 +1,7 @@
 ---
 title: "A realistic virtual environment for evaluating face analysis systems under dynamic conditions"
 collection: publications
+category: manuscripts
 permalink: /publication/2016-01-01-A-realistic-virtual-environment-for-evaluating-face-analysis-systems-under-dynamic-conditions
 date: 2016-01-01
 venue: 'Pattern recognition'

@@ -1,6 +1,7 @@
 ---
 title: "A color event-based camera emulator for robot vision"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-A-color-event-based-camera-emulator-for-robot-vision
 date: 2024-01-01
 venue: 'In the proceedings of Communications in Computer and Information Science'

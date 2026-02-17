@@ -1,6 +1,7 @@
 ---
 title: "Robust skin segmentation using neighborhood information"
 collection: publications
+category: conferences
 permalink: /publication/2004-10-01-Robust-skin-segmentation-using-neighborhood-information
 date: 2004-10-01
 venue: 'In the proceedings of 2004 International Conference on Image Processing, 2004. ICIP &apos;04.'

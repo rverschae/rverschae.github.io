@@ -117,7 +117,7 @@ for pubsource in publist:
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
-            md += """collection: """ +  publist[pubsource]["collection"]["name"] + '\n'
+            md += """collection: """ +  publist[pubsource]["collection"]["name"] + '"\n'
             md += """category: """ +  publist[pubsource]["collection"]["category"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename

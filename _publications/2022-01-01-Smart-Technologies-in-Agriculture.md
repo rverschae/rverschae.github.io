@@ -1,6 +1,7 @@
 ---
 title: "Smart Technologies in Agriculture"
 collection: publications
+category: conferences
 permalink: /publication/2022-01-01-Smart-Technologies-in-Agriculture
 date: 2022-01-01
 venue: 'In the proceedings of Encyclopedia of Smart Agriculture Technologies'

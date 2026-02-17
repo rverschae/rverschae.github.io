@@ -1,6 +1,7 @@
 ---
 title: "Comparative Study on Meta-heuristics for Achieving Parabolic Fairness in Wireless Channel Allocation"
 collection: publications
+category: conferences
 permalink: /publication/2012-07-01-Comparative-Study-on-Meta-heuristics-for-Achieving-Parabolic-Fairness-in-Wireless-Channel-Allocation
 date: 2012-07-01
 venue: 'In the proceedings of 2012 IEEE/IPSJ 12th International Symposium on Applications and the Internet'
