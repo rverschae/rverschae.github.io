@@ -41,6 +41,7 @@ I have participated in international projects and developed algorithms for large
 - In 2025, I was Elevated to the grade of IEEE Senior member
 - In 2024, I was Nominated as Associate Editor in the Journal Applied Soft Computing
 - From 2020 to 2023, I was director of the Institute of Engineering Sciences, Universidad de O'Higgins, Chile
+- From 2019 to 2024, I was director of PAR Explora O'Higgins, science disemmination project of the Chilean Science Ministry. 
 
 * * *
 
@@ -73,10 +74,10 @@ I have participated in international projects and developed algorithms for large
 * [Matias Pastene], Computer Engineer at Universidad O'Higgins
 * [Ignacio Vasquez], Electrical Engineer at Universidad O'Higgins
 * [Hernan Moreno], Electrical Engineer at Universidad O'Higgins
-* [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Felipe Gomez], Computer Engineer at Universidad O'Higgins
-* [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
+* [Daniel Gomez], Electrical Engineer at Universidad O'Higgins
 * [Luis Miranda], Computer Engineer at Universidad O'Higgins
 * [Patricio Fernandez], Computer Engineer at Universidad O'Higgins
+* [Christopher Sandoval], Computer Engineer at Universidad O'Higgins
 
   
