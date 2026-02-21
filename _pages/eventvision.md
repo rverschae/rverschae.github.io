@@ -3,8 +3,6 @@ permalink: /eventvision/
 title: "Event-based Vision"
 ---
 
-# Event-based Vision
-
 ## Research Lines
 - Gesture and Expression Recognition
 - Motion Analisis

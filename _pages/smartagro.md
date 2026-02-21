@@ -3,9 +3,6 @@ permalink: /smartagro/
 title: "Smart Agriculture"
 ---
 
-
-# Smart Agriculture
-
 ## Research Lines
 - Fruit Detection, Tracking, Counting & Monitoring
 - Wireless Sensor Networks, Telemetry & Modelling
