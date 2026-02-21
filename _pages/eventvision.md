@@ -1,3 +1,8 @@
+---
+permalink: /eventvision/
+title: "Event-based Vision"
+---
+
 # Event-based Vision
 
 ## Research Lines

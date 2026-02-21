@@ -1,3 +1,9 @@
+---
+permalink: /smartagro/
+title: "Smart Agriculture"
+---
+
+
 # Smart Agriculture
 
 ## Research Lines
