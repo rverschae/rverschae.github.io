@@ -67,7 +67,7 @@ I have participated in international projects and developed algorithms for large
 * [Robert Guaman], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
 * [Christopher Flores], Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
-* [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now at Developer at Cero.ia)
+* [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now Developer at Cero.ia)
 * [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
 * [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins (Now at Garces Fruit)
 * [Ariel Valenzuela], Electrical Engineer at Universidad de O'Higgins
