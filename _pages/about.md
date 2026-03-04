@@ -6,7 +6,7 @@ author_profile: true
 
 ## Affiliations
 
-+ Faculty, Department of Informatics, [Universidad Técnica Federico Santa María](https://informatica.usm.cl/), Chile 
++ Department of Informatics, [Universidad Técnica Federico Santa María](https://informatica.usm.cl/), Chile 
 + [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/)
 
 ## Contact 
