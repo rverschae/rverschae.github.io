@@ -3,4 +3,4 @@ permalink: /lectures/
 title: "Lectures"
 ---
 
-## [INF292](inf292.md)
+## [INF292](/lectures/inf292.md)
