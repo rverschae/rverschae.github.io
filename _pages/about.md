@@ -58,7 +58,6 @@ I have participated in international projects and developed algorithms for large
 
 * [Ariel Zuñiga], Master Student at Universidad de O'Higgins
 * [Nicolas Araya], Master Student at Universidad de O'Higgins
-* [Tomas Perez], Electrical  Engineer Student at Universidad de O'Higgins
 * [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
 
 # Alumni
@@ -69,6 +68,7 @@ I have participated in international projects and developed algorithms for large
 * [Luis Cossio], Master in Electrical Engineering at Universidad de Chile (Now PhD Student at Universidad de Chile)
 * [Jose Astorga], Master in Computer Engineering at Universidad de Chile (Now Developer at Cero.ia)
 * [Ignacio Bugueno-Cordova], Master in Electrical Engineering at Universidad de Chile (Now PhD Student)
+* [Tomas Perez], Electrical Engineer at Universidad de O'Higgins
 * [Fabian Valderrama], Industrial Engineer at Universidad O'Higgins (Now at Garces Fruit)
 * [Ariel Valenzuela], Electrical Engineer at Universidad de O'Higgins
 * [Matias Pastene], Computer Engineer at Universidad O'Higgins
