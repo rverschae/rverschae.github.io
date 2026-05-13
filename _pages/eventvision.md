@@ -7,8 +7,11 @@ title: "Event-based Vision"
 - Gesture and Expression Recognition
 - Motion Analisis
 - Robot Vision
+- Optical Communication
 
 ## Publications
+- N Mastropasqua, D Acevedo, I Bugueno,  R Verschae, "Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach” FG2026, Facial Micro-Expression (FME) Workshop 2026 (Accepted)
+- F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. "Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera" IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026
 - R Verschae, I Bugueno-Cordova, "evTransfer: A transfer learning framework for event-based facial expression recognition", Neurocomputing, 13264, 2026
 - N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, P Negri, Maria E Buemi, "Event-based facial microexpression analysis using Spiking Neural Networks", 
 15th IEEE International Conference on Pattern Recognition Systems (ICPRS), 2025 

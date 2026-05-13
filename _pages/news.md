@@ -4,6 +4,7 @@ title: "News"
 ---
 
 ## 2026
+- [New Paper] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. ["Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera"](https://ieeexplore.ieee.org/document/11515206) IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026
 - [New Affiliation] from March 2026 I am joining Universidad Tecnica Federico Santa Maria (UTFSM), Chile
 - [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), Inclusion Chair, August 2026, Kitakyushu, Japan
 - [New Tutorial at FG2026], Kyoto, Japan, on "[Face and gesture recognition using event-based cameras](https://rodrigo.verschae.org//fg2026/Event_FG_Tutorial)", joinly prepared by Rodrigo Verschae, Daniel Acevedo, Nicolas Mastropasqua, Ignacio Bugueno-Cordova.

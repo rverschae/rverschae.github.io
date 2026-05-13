@@ -9,6 +9,7 @@ title: "Smart Agriculture"
 - Field Robotics
 
 ## Publications
+- A Zuñiga-Santana, G Facciolo, S Nobuhara, Rodrigo Verschae, “A Multi-View Photometric Stereo Pipeline for Specular 3D Fruit Reconstruction”, WACV 2026 Workshop HARVESTVision, 2026
 - L Cossio-Montefinale, C Quiñinao, R Verschae. "Orchard sweet cherry color distribution estimation from wireless sensor networks and video-based fruit detection", Computers and Electronics in Agriculture 235, 110334
 - L Cossio-Montefinale, J Ruiz-del-Solar, R Verschae, "Cherry CO Dataset: a dataset for cherry detection, segmentation and maturity recognition", IEEE Robotics and Automation Letters, 2024
 - C Flores, A Valenzuela, R Verschae, "Active Learning for Image Classification: A Comprehensive Analysis in Agriculture" Proceedings of Ninth International Congress on Information and Communication, 2024
