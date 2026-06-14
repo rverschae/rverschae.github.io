@@ -6,7 +6,7 @@ title: "News"
 ## 2026
 - [New Paper] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. ["Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera"](https://ieeexplore.ieee.org/document/11515206) IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026
 - [New Paper], Nicolas Mastropasqua, Ignacio Bugueno-Cordova, Rodrigo Verschae, Daniel Acevedo, Pablo Negri, ["Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach"](https://megc2026.github.io/workshop.html), Facial Micro-Expression (FME) Workshop, FG2026, 2026
-- [New Affiliation] from March 2026 I am joining Universidad Tecnica Federico Santa Maria (UTFSM), Chile
+- [New Affiliation] from March 2026 I am joining Department of Informatics, Universidad Tecnica Federico Santa Maria (UTFSM), Chile
 - [Organizing Committee] [The 35th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026)](https://ro-man2026.org/), Inclusion Chair, August 2026, Kitakyushu, Japan
 - [New Tutorial at FG2026], Kyoto, Japan, on "[Face and gesture recognition using event-based cameras](https://rodrigo.verschae.org//fg2026/Event_FG_Tutorial)", joinly prepared by Rodrigo Verschae, Daniel Acevedo, Nicolas Mastropasqua, Ignacio Bugueno-Cordova.
 - [New Paper] R Verschae, I. Bugueno-Cordova, "[evTransFER: A Transfer Learning Framework for Event-based Facial Expression Recognition](https://www.sciencedirect.com/science/article/abs/pii/S092523122600038X)", Neurocomputing, Volume 671, 28 March 2026, 132641
