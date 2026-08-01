@@ -4,8 +4,8 @@ title: "News"
 ---
 
 ## 2026
+- [New Affiliation] from August 2026 I am joining de [IDIA](https://idia.uchile.cl/), Universidad de Chile, Chile
 - [New Paper] Anis Ben Mabrouk, Gabriele Facciolo, Rafael Grompone von Gioi, Alex Davy, Antoine Tadros, Rodrigo Verschae, "Pair-Conditioned Representations for Robust Same-View Vehicle Re-Identification", EUSIPCO (Accepted)
-- [New Affiliation] from August 2026 I am [IDIA](https://idia.uchile.cl/), Universidad de Chile, Chile
 - [New Paper] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. ["Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera"](https://ieeexplore.ieee.org/document/11515206) IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026
 - [New Paper], Nicolas Mastropasqua, Ignacio Bugueno-Cordova, Rodrigo Verschae, Daniel Acevedo, Pablo Negri, ["Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach"](https://megc2026.github.io/workshop.html), Facial Micro-Expression (FME) Workshop, FG2026, 2026
 - [New Affiliation] from March 2026 I am joining Department of Informatics, Universidad Tecnica Federico Santa Maria (UTFSM), Chile

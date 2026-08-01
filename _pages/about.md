@@ -6,7 +6,7 @@ author_profile: true
 
 ## Affiliations
 
-+ Associate Professor, Department of Informatics, [Universidad Técnica Federico Santa María](https://informatica.usm.cl/), Chile 
++ Faculty at [IDIA](https://idia.uchile.cl/), Universidad de Chile, Chile 
 + Research Collaborator, National Center for Artificial Intelligence ([CENIA](https://cenia.cl/)), Chile
 + [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/)
 
@@ -26,7 +26,7 @@ Also [Web of Science profile](https://www.webofscience.com/wos/author/record/K-4
 
 # About Me
 
-From August 2026, I am joining IDIA, FCFM, Universidad de Chile. Before that (2026) I was an Associate Professor the Department of Informatics, Universidad Tecnica Federico Santa Maria, Chile and before that (2018-2026), I was associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018) I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
+Since August 2026, I am Faculty at IDIA, Universidad de Chile. Before that (2026) I was an Associate Professor the Department of Informatics, Universidad Tecnica Federico Santa Maria, Chile and before that (2018-2026), I was associate professor at the Institute of Engineering Sciences, Universidad de O'Higgins, Chile. Before that (2015-2018) I was an assistant professor at the Computer Vision Lab (Matsuyama Lab) at the Graduate School of Informatics, Kyoto University, Japan.
 
 My research interests include computer and robot vision, machine learning, and intelligent and robot systems with various applications (energy, agriculture, etc.).
   
