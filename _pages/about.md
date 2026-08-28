@@ -12,7 +12,8 @@ author_profile: true
 
 ## Contact 
 
-+ Email: rodrigo [at] verschae [dot] org  
++ Email: rodrigo [at] verschae [dot] org
++ Email: rverschae [at] uchile [dot] cl
 + Web: [http://rodrigo.verschae.org](http://rodrigo.verschae.org)
 
 * * *
