@@ -7,7 +7,6 @@ author_profile: true
 ## Affiliations
 
 + Faculty at [IDIA](https://idia.uchile.cl/), the Data and IA Initiative of Universidad de Chile, Chile 
-+ Research Collaborator, National Center for Artificial Intelligence ([CENIA](https://cenia.cl/)), Chile
 + [Robotics and Intelligent Systems Lab](https://sites.google.com/uoh.cl/uoh-ris-lab/)
 
 ## Contact 
