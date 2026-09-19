@@ -4,6 +4,9 @@ title: "News"
 ---
 
 ## 2026
+- [New Paper] Ignacio Bugueno, Javier Ruiz-del-Solar, **Rodrigo Verschae**, "Moving6DPoSe: A Multimodal Database for Monocular 6D Pose Estimation and Segmentation of Moving Objects", NEVI Workshop, ECCV, 2026  (Accepted)
+- [New Paper] Ignacio Bugueno-Cordova, Fabian Ignacio Valderrama-Penaloza, **Rodrigo Verschae**, "eBIRD: Event-based Intensity Image Reconstruction Using Controllable Diffusion Models", NEVI Workshop, ECCV, 2026  (Accepted)
+- [New Paper] Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, **Rodrigo Verschae**,Miguel Campusano, "EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim", NEVI Workshop, ECCV, 2026  (Accepted)
 - [New Affiliation] from August 2026 I am joining the IA and Data Initiative [IDIA](https://idia.uchile.cl/) of Universidad de Chile, Chile
 - [New Paper] Anis Ben Mabrouk, Gabriele Facciolo, Rafael Grompone von Gioi, Alex Davy, Antoine Tadros, Rodrigo Verschae, "Pair-Conditioned Representations for Robust Same-View Vehicle Re-Identification", EUSIPCO (Accepted)
 - [New Paper] F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. ["Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera"](https://ieeexplore.ieee.org/document/11515206) IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026

@@ -10,7 +10,10 @@ title: "Event-based Vision"
 - Optical Communication
 
 ## Publications
-- N Mastropasqua, D Acevedo, I Bugueno,  R Verschae, "Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach” FG2026, Facial Micro-Expression (FME) Workshop 2026 (Accepted)
+- Ignacio Bugueno, Javier Ruiz-del-Solar, **Rodrigo Verschae**, "Moving6DPoSe: A Multimodal Database for Monocular 6D Pose Estimation and Segmentation of Moving Objects", NEVI Workshop, ECCV, 2026  (Accepted)
+- Ignacio Bugueno-Cordova, Fabian Ignacio Valderrama-Penaloza, **Rodrigo Verschae**, "eBIRD: Event-based Intensity Image Reconstruction Using Controllable Diffusion Models", NEVI Workshop, ECCV, 2026  (Accepted)
+- Ignacio Bugueno-Cordova, Malte Kuhlmann, Nicolás Navarro-Guerrero, **Rodrigo Verschae**,Miguel Campusano, "EsaacSim: A Multimodal Event Camera Add-on for NVIDIA Isaac Sim", NEVI Workshop, ECCV, 2026  (Accepted)
+- N Mastropasqua, D Acevedo, I Bugueno,  R Verschae, "Event-based Liveness Detection using Temporal Ocular Dynamics: An Exploratory Approach” FG2026, Facial Micro-Expression (FME) Workshop 2026 
 - F Borja, J Aranda Cubillo, I Bugueno-Cordova, R Verschae, P Palacios Jativa, D Zabala-Blanco, and C Azurdia-Meza. "Design and Implementation of a Feedback-Aware MISO Optical Camera Communication System Using an Event Camera" IEEE Photonics Technology Letter, doi: 10.1109/LPT.2026.3692381, 2026
 - R Verschae, I Bugueno-Cordova, "evTransfer: A transfer learning framework for event-based facial expression recognition", Neurocomputing, 13264, 2026
 - N Mastropasqua, I Bugueno-Cordova, R Verschae, D Acevedo, P Negri, Maria E Buemi, "Event-based facial microexpression analysis using Spiking Neural Networks", 
