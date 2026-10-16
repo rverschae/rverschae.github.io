@@ -49,20 +49,28 @@ I have participated in international projects and developed algorithms for large
 # Current Staff, Postdocs & Project Engineers
 
 * [Jaime Varas], Agriculture Engineer
-* [Luis Cosio], Electrical Engineer
 * [Ignacio Bugueno], Electrical Engineer
 * [Edgardo Ramirez], Postdoc at Universidad de O'Higgins
 * [Matias Pastene], Computer Engineer
 * [Ariel Valenzuela], Electrical Engineer
 
+# Current PhD Students
+
+* [Ariel Zuñiga], Phd Student at Universidad de O'Higgins (co-advised with Stefan Escaida)
+* [Luis Cosio], Phd Student at Universidad de Chile (co-advised with Javier Ruiz-del-Solar)
+* [Luis Cosio], Phd Candidate at Universidad Tecnica Federico Santa Maria (co-advised with Mauricio Araya)
+
 # Current Students
 
-* [Ariel Zuñiga], Master Student at Universidad de O'Higgins
 * [Nicolas Araya], Master Student at Universidad de O'Higgins
-* [Nicolas Munoz], Computer Engineer Student at Universidad de O'Higgins
+* [Samuel Bugueno], Electrical Engineer Student at Universidad de Chile
+* [Flavio Oyarce], Informatics Engineer at Universidad Tecnica Federico Santa Maria
+* [Walter Sanhueza], Informatics Engineer at Universidad Tecnica Federico Santa Maria
+* [Javiera Bobadilla], Informatics Engineer at Universidad Tecnica Federico Santa Maria
 
 # Alumni
 
+* [Ariel Zuñiga], Master in Electrical Engineering at Universidad de O'Higgins
 * [Rohit Singla], Postdoc at Universidad de O'Higgins (Now Assistant Professor at University of Wisconsin–Eau Claire)
 * [Robert Guaman], FONDECYT Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad Catolica del Norte, Chile)
 * [Christopher Flores], FONDECYT Postdoc at Universidad de O'Higgins (Now Assistant Professor at Universidad del Bio-bio, Chile)
